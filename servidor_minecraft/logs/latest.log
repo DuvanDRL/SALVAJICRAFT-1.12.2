@@ -30205,3 +30205,69 @@ java.util.ConcurrentModificationException: null
 [17:26:39] [Async Chat Thread - 15/INFO] []: [Owner] DuvanD: que hace un herrero
 [17:26:39] [Async Chat Thread - 15/INFO] []: [Owner] DuvanD: xd
 [17:26:42] [Async Chat Thread - 15/INFO] []: [Owner] DuvanD: herrar
+[17:26:50] [Async Chat Thread - 15/INFO] []: [Owner] skenecrackm: pues craftear armaduras espadas etc
+[17:26:51] [Async Chat Thread - 15/INFO] []: [Owner] DuvanD: que venda armas?
+[17:26:53] [Async Chat Thread - 15/INFO] []: [Owner] skenecrackm: aja
+[17:27:03] [Async Chat Thread - 15/INFO] []: [Owner] DuvanD: que moneda va a tener la serie
+[17:27:09] [Async Chat Thread - 15/INFO] []: [Owner] skenecrackm: que venda esta arma
+[17:27:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is bleeding...
+[17:27:50] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
+[17:27:50] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
+[17:27:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Elena Nito del Bosque is 0.001
+[17:28:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:28:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /effect DuvanD minecraft:instant_health 999 99
+[17:28:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Given Instant Health (ID 6) * 99 to DuvanD for 999 seconds]
+[17:28:12] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: que pongo que pida
+[17:28:13] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: por eso
+[17:28:17] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: osea metodo de pago
+[17:28:18] [Async Chat Thread - 16/INFO] []: [Owner] skenecrackm: minerales
+[17:28:21] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: nequi
+[17:28:22] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: xd
+[17:28:23] [Async Chat Thread - 16/INFO] []: [Owner] skenecrackm: XD
+[17:28:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode c
+[17:28:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Creative Mode]
+[17:28:46] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:vampire_expert`. A random skin will be generated.
+[17:28:54] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[17:28:59] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: vea plata
+[17:29:09] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:vampire_expert`. A random skin will be generated.
+[17:29:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /give skenecrackm customnpcitems:money
+[17:29:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Given [Money] * 1 to skenecrackm]
+[17:29:14] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:vampire_expert`. A random skin will be generated.
+[17:29:16] [Server thread/INFO] [mca]: Villager death: Cedric. Caused by: Nguyet. UUID: 8b21700f-6d97-4fcc-825b-c695d68750b8
+[17:29:18] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:vampire_expert`. A random skin will be generated.
+[17:29:20] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[17:29:22] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[17:29:39] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: ee
+[17:29:44] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: esos npc que
+[17:29:48] [Server thread/INFO] [mca]: Villager death: Merlyn. Caused by: skenecrackm. UUID: e257aeb9-358b-4c8d-b14a-6e4ab4e91cd4
+[17:30:01] [Async Chat Thread - 16/INFO] []: [Owner] skenecrackm: aldeanos
+[17:30:07] [Async Chat Thread - 16/INFO] []: [Owner] skenecrackm: no es un pueblo sin aldeanos
+[17:30:11] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: hay demasiados mobs
+[17:30:14] [Async Chat Thread - 16/INFO] []: [Owner] skenecrackm: abra normales y lo sque son npcs
+[17:30:28] [Async Chat Thread - 16/INFO] []: [Owner] skenecrackm: con los que ya ahi y listo
+[17:30:56] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: oiga que el herrero venda cosas de que material
+[17:30:58] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: diamante?
+[17:31:01] [Async Chat Thread - 16/INFO] []: [Owner] DuvanD: o solo hierro y plata
+[17:31:12] [Async Chat Thread - 16/INFO] []: [Owner] skenecrackm: hierro y plata no mas
+[17:31:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD has made the advancement [Isn't It Iron Pick]
+[17:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD has made the advancement [Suit Up]
+[17:32:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tiger Shark is 0.001
+[17:32:47] [Async Chat Thread - 17/INFO] []: [Owner] DuvanD: espadas y armaduras?
+[17:32:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cichlid is 0.001
+[17:32:51] [Async Chat Thread - 17/INFO] []: [Owner] DuvanD: o espadas hachas y armaduras
+[17:32:52] [Async Chat Thread - 17/INFO] []: [Owner] skenecrackm: aja
+[17:32:56] [Async Chat Thread - 17/INFO] []: [Owner] DuvanD: o espadas hachas picos palas y armaduras
+[17:32:57] [Async Chat Thread - 17/INFO] []: [Owner] DuvanD: xd
+[17:33:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:33:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Great White Shark is 0.001
+[17:33:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Great White Shark is 0.001
+[17:33:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moray Eel is 0.001
+[17:34:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pufferfish is 0.001
+[17:34:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Clownfish is 0.001
+[17:34:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm issued server command: /effect clear
+[17:34:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moray Eel is 0.001
+[17:34:57] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound3' in StructureBoundingBox{x0=217, y0=64, z0=-614, x1=228, y1=68, z1=-605} (0)
+[17:35:13] [Async Chat Thread - 18/INFO] []: [Owner] DuvanD: que precio pongo
+[17:35:14] [Async Chat Thread - 18/INFO] []: [Owner] DuvanD: mmgvo
+[17:36:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moray Eel is 0.001
+[17:36:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moray Eel is 0.001
