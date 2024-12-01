@@ -7,7 +7,7 @@ Groups:
     chat:
       prefix: '[]'
       suffix: ''
-      chatColor: '&f'
+      chatColor: '&c&l'
       nameColor: '&f'
     level:
       promote: ''
@@ -25,7 +25,7 @@ Groups:
     chat:
       prefix: '[&bOwner&r]'
       suffix: ''
-      chatColor: '&4'
+      chatColor: '&c&l'
       nameColor: '&f'
     level:
       promote: ''
