@@ -30118,3 +30118,18 @@ java.util.ConcurrentModificationException: null
 [17:04:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /lr ping
 [17:04:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
 [17:05:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Nether Wasp is 0.01
+[17:07:53] [Async Chat Thread - 11/INFO] []: [Owner] DuvanD: ey
+[17:07:57] [Async Chat Thread - 11/INFO] []: [Owner] DuvanD: la dificultad sube
+[17:08:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:09:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD has made the advancement [Surfer Rosa]
+[17:10:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[17:10:21] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity iceandfire:if_pixie
+[17:11:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[17:11:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:11:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:11:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[17:11:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[17:11:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:12:43] [Async Chat Thread - 12/INFO] []: [Owner] skenecrackm: pruebe con /effect @p
+[17:12:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:13:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
