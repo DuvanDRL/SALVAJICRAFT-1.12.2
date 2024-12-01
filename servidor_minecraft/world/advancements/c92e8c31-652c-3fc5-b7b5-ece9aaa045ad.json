@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2024-12-01 18:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-01 02:58:09 +0000"
@@ -20,6 +26,12 @@
   "vampirism:vampire/max_level": {
     "criteria": {
       "level": "2024-12-01 02:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-01 18:34:27 +0000"
     },
     "done": true
   },
@@ -97,6 +109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 18:34:27 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/bat": {
     "criteria": {
       "action": "2024-12-01 02:50:42 +0000"
@@ -118,6 +136,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-01 03:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-01 18:34:27 +0000"
     },
     "done": true
   },
@@ -247,6 +271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-01 18:34:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2024-12-01 02:27:05 +0000"
@@ -313,6 +343,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2024-12-01 18:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-01 18:34:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-01 02:54:28 +0000"
@@ -328,6 +370,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_iron_block": "2024-12-01 17:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-01 18:34:35 +0000"
     },
     "done": true
   },
@@ -395,6 +443,12 @@
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
       "entered_water": "2024-12-01 02:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-01 18:34:27 +0000"
     },
     "done": true
   },
