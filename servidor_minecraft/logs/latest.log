@@ -30271,3 +30271,40 @@ java.util.ConcurrentModificationException: null
 [17:35:14] [Async Chat Thread - 18/INFO] []: [Owner] DuvanD: mmgvo
 [17:36:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moray Eel is 0.001
 [17:36:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moray Eel is 0.001
+[17:36:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sockeye Salmon is 0.001
+[17:36:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Blue Fish is 0.001
+[17:37:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cichlid is 0.001
+[17:37:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cichlid is 0.001
+[17:37:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moray Eel is 0.001
+[17:37:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cichlid is 0.001
+[17:38:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:38:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[17:38:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm issued server command: /effect clear @s
+[17:38:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [skenecrackm: Entity 'clear' cannot be found]
+[17:39:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Mutant Zombie is 0.01
+[17:41:54] [Async Chat Thread - 19/INFO] []: [Owner] skenecrackm: oe por que los golems ahora son de oro XD
+[17:42:02] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: muestre
+[17:42:08] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: queverga
+[17:42:27] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: ala
+[17:42:28] [Async Chat Thread - 19/INFO] []: [Owner] skenecrackm: que mrd
+[17:42:32] [Async Chat Thread - 19/INFO] []: [Owner] skenecrackm: y esa pocion
+[17:42:32] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: tan mejor
+[17:42:34] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: xd
+[17:43:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:43:17] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: igual se van a desespawnear
+[17:43:28] [Async Chat Thread - 19/INFO] []: [Owner] skenecrackm: por que?
+[17:43:34] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: ps obvio
+[17:43:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD has reached the goal [Hired Help]
+[17:43:41] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: xd}
+[17:43:43] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: vea
+[17:44:05] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: pongales etiqueta entonces
+[17:44:10] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: pa que no se desespawneen
+[17:44:15] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: siponga eso
+[17:44:23] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: golems de oro
+[17:44:24] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: porque
+[17:44:35] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: se supone que esta zona es libre
+[17:44:39] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: sin peleas
+[17:44:46] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: y los golems normales atacan a los jugadores vampiros
+[17:44:50] [Async Chat Thread - 19/INFO] []: [Owner] DuvanD: estos no deberian
+[17:45:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Iron Golem is 0.001
+[17:46:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Elena nitodelbosque is 0.001

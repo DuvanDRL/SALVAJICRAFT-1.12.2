@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-01 17:42:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_fir": {
     "criteria": {
       "entered_water": "2024-12-01 02:27:05 +0000"
@@ -259,6 +265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-01 17:42:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2024-12-01 02:27:05 +0000"
@@ -295,6 +307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-01 17:42:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-01 02:54:28 +0000"
@@ -304,6 +322,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2024-12-01 02:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-01 17:42:44 +0000"
     },
     "done": true
   },
@@ -380,6 +404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-01 17:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-01 02:54:28 +0000"
@@ -389,6 +419,12 @@
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2024-12-01 02:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-01 17:42:41 +0000"
     },
     "done": true
   }

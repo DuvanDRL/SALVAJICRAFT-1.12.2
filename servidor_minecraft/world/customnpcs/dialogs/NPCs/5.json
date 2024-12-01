@@ -2,6 +2,16 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Tienda",
+                "DialogColor": 2422307,
+                "OptionType": 3
+            }
+        }
     ],
     "AvailabilityScoreboardType": 1,
     "DialogHideNPC": 0b,
@@ -32,12 +42,17 @@
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 1,
     "AvailabilityFaction2": 0,
+    "DialogSound": "customnpcs:human.male.heroic.attack",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "",
+    "DialogText": "Hola,
+Soy Elena,
+Y soy un Herrero, te vendere algunas herramientas y armaduras
+que te seran utiles en tu aventura.
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -54,7 +69,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1733074568591L,
+        "TimePast": 1733074914732L,
         "Time": 0L,
         "Subject": ""
     }
