@@ -29912,3 +29912,110 @@
 [16:45:09] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
 [16:45:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
 [16:46:01] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.39 and blood value 3 for entity zawa:amazonriverdolphin
+[16:46:44] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player DuvanD is c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[16:46:44] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:46:44] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:46:44] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:46:45] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:46:45] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[16:46:45] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[16:46:45] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[16:46:45] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[16:46:45] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:46:45] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[16:46:45] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[16:46:48] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:46:48] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[16:46:48] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:46:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:46:48] [Server thread/INFO] []: [+] DuvanD
+[16:46:48] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['DuvanD'/1381, uuid='c92e8c31-652c-3fc5-b7b5-ece9aaa045ad', l='world', x=295.77, y=80.99, z=-888.26, cx=18, cd=-56, tl=112807, v=true, d=false](DuvanD at 295.76800684890117,80.99395262687717,-888.2603514475225))
+[16:46:48] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of DuvanD: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:46:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: DuvanD[/127.134.187.169:44389] logged in with entity id 1381 at ([world]295.76800684890117, 80.99395262687717, -888.2603514475225)
+[16:46:48] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:46:55] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of DuvanD (18)
+[16:46:55] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[16:46:55] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[16:46:55] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[16:46:55] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[16:47:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[16:47:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[16:47:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:47:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[16:47:07] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:47:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm issued server command: /time set 0
+[16:47:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [skenecrackm: Set the time to 0]
+[16:47:17] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[16:47:17] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[16:47:17] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[16:47:17] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[16:47:17] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[16:47:17] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[16:47:17] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:47:18] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:47:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[16:47:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[16:47:19] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:47:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[16:47:19] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:47:23] [Async Chat Thread - 6/INFO] []: [°] DuvanD: eu
+[16:47:33] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:47:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[16:47:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[16:47:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[16:47:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[16:47:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[16:47:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[16:47:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:47:45] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[16:47:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[16:47:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:47:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[16:47:46] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[16:47:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:48:16] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Setting group of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=7f6daeda-ef1e-4a7a-a6f9-f03c799ca493}
+[16:48:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /voicechat
+[16:48:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /voicechat invite
+[16:48:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /voicechat invite skenecrackm
+[16:48:47] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.39 and blood value 3 for entity zawa:bottlenosedolphin
+[16:48:47] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:coconutcrab
+[16:48:53] [Async Chat Thread - 7/INFO] []: [] skenecrackm: no deja
+[16:48:56] [Async Chat Thread - 7/INFO] []: [°] DuvanD: xd
+[16:48:58] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Setting group of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=7f6daeda-ef1e-4a7a-a6f9-f03c799ca493}
+[16:48:58] [Async Chat Thread - 7/INFO] []: [°] DuvanD: que cosa
+[16:49:01] [Async Chat Thread - 7/INFO] []: [°] DuvanD: ya
+[16:49:56] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.39 and blood value 3 for entity zawa:beaver
+[16:50:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 280 78 -937
+[16:50:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 280 78 -937 287 71 -939
+[16:50:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 280 78 -937 287 71 -939 grass
+[16:50:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 133 blocks filled]
+[16:51:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 280 78 -937 287 71 -939 grass
+[16:51:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 38 blocks filled]
+[16:51:51] [Async Chat Thread - 8/INFO] []: [°] DuvanD: se pueden hacer laberintos?
+[16:51:54] [Async Chat Thread - 8/INFO] []: [°] DuvanD: con el recurrent?
+[16:52:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 280 72 -936
+[16:52:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 280 72 -936 289 74 -933 grass
+[16:52:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 80 blocks filled]
+[16:53:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:53:55] [Async Chat Thread - 9/INFO] []: [°] DuvanD: god vea
+[16:54:03] [Async Chat Thread - 9/INFO] []: [°] DuvanD: la animacion de la espada de fuego
+[16:54:06] [Async Chat Thread - 9/INFO] []: [°] DuvanD: la ve?
+[16:54:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm issued server command: /#gen VillageHouseRich
+[16:54:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm issued server command: /#cancel
+[16:54:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm issued server command: /#gen VillageHouseRich
+[16:55:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm issued server command: /#confirm
+[16:55:01] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageHouseRich' in StructureBoundingBox{x0=268, y0=70, z0=-935, x1=283, y1=96, z1=-916} (0)
+[16:55:04] [Async Chat Thread - 9/INFO] []: [°] DuvanD: yo que hago
+[16:55:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /powerrank
+[16:55:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /pr
+[16:55:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /pr help
+[16:55:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /pr ranklist
+[16:55:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /pr help 1
+[16:55:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm issued server command: /time set 16000
+[16:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [skenecrackm: Set the time to 16000]
+[16:55:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /pr help 2
+[16:55:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /pr listranks
+[16:55:59] [Async Chat Thread - 9/INFO] []: [°] DuvanD: mas bien poner algo que mate los mobs
+[16:56:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[16:56:19] [Async Chat Thread - 9/INFO] []: [°] DuvanD: parasitos
+[16:56:20] [Async Chat Thread - 9/INFO] []: [°] DuvanD: god
