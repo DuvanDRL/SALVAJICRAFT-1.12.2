@@ -34,8 +34,8 @@
       "name": "unnamed",
       "origin": {
         "data": {
-          "agent_id": "061a1ab3-8db8-4ce1-97c6-14e2c644835d",
-          "agent_name": "salvajicraft",
+          "agent_id": "e6a62022-1fb3-4865-b753-d3e9916348e8",
+          "agent_name": "from-key-b5e9",
           "local_ip": "127.0.0.1",
           "local_port": 2498
         },
@@ -80,8 +80,8 @@
       "name": "unnamed",
       "origin": {
         "data": {
-          "agent_id": "061a1ab3-8db8-4ce1-97c6-14e2c644835d",
-          "agent_name": "salvajicraft",
+          "agent_id": "e6a62022-1fb3-4865-b753-d3e9916348e8",
+          "agent_name": "from-key-b5e9",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
