@@ -30193,3 +30193,25 @@ java.util.ConcurrentModificationException: null
 [03:58:37] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
 [03:58:37] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
 [04:02:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:07:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm issued server command: /ce reload
+[04:07:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 timed out
+[04:14:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player skenecrackm
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to skenecrackm
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with skenecrackm
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with skenecrackm
+[04:14:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to skenecrackm
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 96aa5d1a-35a1-3973-b483-597cb6e73744 to disconnected: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
+[04:14:44] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
+[04:14:45] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
+[04:14:45] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 96aa5d1a-35a1-3973-b483-597cb6e73744
