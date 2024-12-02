@@ -30215,3 +30215,69 @@ java.util.ConcurrentModificationException: null
 [04:14:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
 [04:14:45] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:38339
 [04:14:45] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[04:16:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[04:16:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of skenecrackm to connected: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:16:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
+[04:16:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 timed out
+[04:16:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player skenecrackm
+[04:16:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to skenecrackm
+[04:16:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with skenecrackm
+[04:16:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with skenecrackm
+[04:16:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to skenecrackm
+[04:16:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 96aa5d1a-35a1-3973-b483-597cb6e73744 to disconnected: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:16:53] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:16:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[04:16:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[04:16:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of skenecrackm to connected: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:16:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
+[04:16:54] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:17:38] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.26 and blood value 0 for entity zawa:indianpangolin
+[04:17:40] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.2 and blood value 0 for entity zawa:greenanaconda
+[04:17:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 timed out
+[04:18:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player skenecrackm
+[04:18:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to skenecrackm
+[04:18:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with skenecrackm
+[04:18:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with skenecrackm
+[04:18:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to skenecrackm
+[04:18:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 96aa5d1a-35a1-3973-b483-597cb6e73744 to disconnected: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:18:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:44460
+[04:18:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:44460
+[04:18:47] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:18:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[04:19:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[04:20:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[04:20:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of skenecrackm to connected: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:20:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
+[04:20:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 timed out
+[04:20:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player skenecrackm
+[04:20:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to skenecrackm
+[04:20:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with skenecrackm
+[04:20:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with skenecrackm
+[04:20:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to skenecrackm
+[04:20:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 96aa5d1a-35a1-3973-b483-597cb6e73744 to disconnected: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:20:54] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:20:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[04:20:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[04:20:55] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of skenecrackm to connected: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:20:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
+[04:20:56] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:20:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[04:21:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 timed out
+[04:21:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player skenecrackm
+[04:21:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to skenecrackm
+[04:21:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with skenecrackm
+[04:21:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with skenecrackm
+[04:21:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to skenecrackm
+[04:21:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 96aa5d1a-35a1-3973-b483-597cb6e73744 to disconnected: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:21:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50662
+[04:21:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50662
+[04:21:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50662
+[04:21:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50662
+[04:21:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Failed to decrypt packet from /127.0.0.1:50662
+[04:21:48] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[04:21:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[04:22:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:23:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[04:23:47] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.03 and blood value 0 for entity iceandfire:firedragon
+[04:23:53] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 14.04 and blood value 0 for entity zawa:asianelephant
