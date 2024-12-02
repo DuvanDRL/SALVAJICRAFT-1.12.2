@@ -562,6 +562,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2024-12-02 17:20:45 +0000",
       "forest": "2024-12-01 03:28:52 +0000",
       "deep_ocean": "2024-12-01 01:35:27 +0000",
       "beaches": "2024-12-01 01:35:07 +0000",
@@ -643,6 +644,12 @@
   "cfm:install": {
     "criteria": {
       "tick": "2024-11-30 22:25:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 17:21:18 +0000"
     },
     "done": true
   },
