@@ -13,6 +13,10 @@
 config-version: 11
 settings:
   bungeecord: false
+  save-user-cache-on-stop-only: false
+  sample-count: 12
+  player-shuffle: 0
+  user-cache-size: 1000
   attribute:
     maxHealth:
       max: 2048.0
@@ -30,13 +34,12 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
-  save-user-cache-on-stop-only: false
-  sample-count: 12
-  player-shuffle: 0
-  user-cache-size: 1000
-messages:
-  restart: Server is restarting
+stats:
+  disable-saving: false
+  forced-stats: {}
 commands:
+  tab-complete: 0
+  silent-commandblock-console: false
   log: true
   spam-exclusions:
   - /skill
@@ -45,15 +48,12 @@ commands:
   - summon
   - testforblock
   - tellraw
-  tab-complete: 0
-  silent-commandblock-console: false
-stats:
-  disable-saving: false
-  forced-stats: {}
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
+messages:
+  restart: Server is restarting
 world-settings:
   default:
     verbose: false
@@ -105,18 +105,18 @@ world-settings:
       reeds: 3
     wither-spawn-sound-radius: 0
     view-distance: 10
-    hanging-tick-frequency: 100
-    enable-zombie-pigmen-portal-spawns: true
     nerf-spawner-mobs: false
+    hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
-    merge-radius:
-      exp: 3.0
-      item: 2.5
-    item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
+    enable-zombie-pigmen-portal-spawns: true
+    merge-radius:
+      exp: 3.0
+      item: 2.5
+    item-despawn-rate: 6000
+    arrow-despawn-rate: 1200

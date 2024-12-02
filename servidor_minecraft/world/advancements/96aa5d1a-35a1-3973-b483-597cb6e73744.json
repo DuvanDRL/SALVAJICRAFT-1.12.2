@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "wolfarmor:recipes/combat/gold_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-02 00:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-01 02:54:32 +0000"
@@ -26,6 +32,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-01 17:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
     },
     "done": true
   },
@@ -59,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2024-12-01 02:45:40 +0000"
@@ -80,6 +98,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-01 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
     },
     "done": true
   },
@@ -113,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-02 02:53:22 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-11-30 22:25:08 +0000"
@@ -134,6 +164,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-12-01 03:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
     },
     "done": true
   },
@@ -173,15 +209,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2024-12-01 02:54:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-02 03:52:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
     },
     "done": true
   },
@@ -251,9 +311,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 02:53:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2024-12-01 03:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
     },
     "done": true
   },
@@ -305,9 +377,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-01 02:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2024-12-02 00:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-01 23:36:19 +0000"
     },
     "done": true
   },
@@ -320,6 +410,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "chaparral": "2024-12-01 01:35:29 +0000",
+      "cold_desert": "2024-12-02 02:45:26 +0000",
+      "gravel_beach": "2024-12-02 02:47:42 +0000",
       "brushland": "2024-12-01 17:13:58 +0000"
     },
     "done": false
@@ -336,9 +428,21 @@
     },
     "done": true
   },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 03:52:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "ice_sword": "2024-12-02 00:15:14 +0000"
     },
     "done": true
   },
@@ -356,6 +460,7 @@
       "plains": "2024-11-30 22:25:08 +0000",
       "savanna": "2024-12-01 00:51:25 +0000",
       "savanna_rock": "2024-12-01 00:51:35 +0000",
+      "taiga": "2024-12-02 02:47:43 +0000",
       "ocean": "2024-12-01 01:35:05 +0000",
       "river": "2024-12-01 00:57:50 +0000"
     },
@@ -382,6 +487,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-01 03:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
     },
     "done": true
   },
@@ -528,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-01 02:54:32 +0000"
@@ -555,6 +672,12 @@
   "biomesoplenty:recipes/misc/mud_from_dirt": {
     "criteria": {
       "has_gem_block": "2024-12-01 03:17:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 03:52:16 +0000"
     },
     "done": true
   },
@@ -606,9 +729,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 00:16:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2024-12-01 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 00:15:39 +0000"
     },
     "done": true
   }

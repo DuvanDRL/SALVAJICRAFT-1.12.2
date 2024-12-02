@@ -2,19 +2,18 @@
 header-footer:
   enabled: true
   header:
-    - "<#FFFFFF>&m                                                </#FFFF00>"
-    - "&3&lServer name"
-    - "&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
+    - "<#5555FF>&m                                                </#5555FF>"
+    - "&2&lSalvajicraft"
+    - "&7&l>> %animation:Bienvenidos%&3 &l%player%&7&l! &7&l<<"
     - "&7Online players: &f%online%"
     - "&6Online staff: &e%staffonline%"
+    - "&ePing: %ping%"
     - ""
   footer:
     - "%animation:time%"
-    - "&2Ping: %ping%"
-    - "&7&l Used memory: %memory-used% MB / %memory-max% MB"
     - ""
-    - "&7Visit our webpage %animation:web%"
-    - "<#FFFFFF>&m                                                </#FFFF00>"
+    - "&6Una_aventura_Salvaje"
+    - "<#5555FF>&m                                                </#5555FF>"
   disable-condition: '%world%=disabledworld'
   per-world:
     world1:
@@ -39,7 +38,7 @@ tablist-name-formatting:
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Nametags
 scoreboard-teams:
-  enabled: true
+  enabled: false
   enable-collision: true
   invisible-nametags: false
   anti-override: true
@@ -87,6 +86,7 @@ bossbar:
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Scoreboard
 scoreboard:
   enabled: false
+
   toggle-command: /sb
   remember-toggle-choice: false
   hidden-by-default: false
@@ -94,24 +94,8 @@ scoreboard:
   static-number: 0
   delay-on-join-milliseconds: 0
   scoreboards:
-    scoreboard-1.20.3+:
-      title: "<#E0B11E>MyServer</#FF0000>"
-      display-condition: "%player-version-id%>=765;%bedrock%=false" # Only display it to players using 1.20.3+ AND NOT bedrock edition
-      lines:
-        - "&7%date%"
-        - "%animation:MyAnimation1%"
-        - "&6Online:"
-        - "* &eOnline&7:||%online%"
-        - "* &eCurrent World&7:||%worldonline%"
-        - "* &eStaff&7:||%staffonline%"
-        - ""
-        - "&6Personal Info:"
-        - "* &bRank&7:||%group%"
-        - "* &bPing&7:||%ping%&8ms"
-        - "* &bWorld&7:||%world%"
-        - "%animation:MyAnimation1%"
-    scoreboard:
-      title: "<#E0B11E>MyServer</#FF0000>"
+    Global:
+      title: "<#AA0000>Vidas Restantes</#AA0000>"
       lines:
         - "&7%date%"
         - "%animation:MyAnimation1%"
@@ -209,6 +193,7 @@ primary-group-finding-list:
   - Mod
   - Helper
   - default
+  - player
 
 # Refresh interval (in milliseconds) of:
 # - Permission checks in conditions / sorting
