@@ -52,7 +52,8 @@
       "cold_desert": "2024-12-02 17:37:28 +0000",
       "boreal_forest": "2024-12-02 17:37:03 +0000",
       "snowy_forest": "2024-12-02 17:37:39 +0000",
-      "snowy_coniferous_forest": "2024-12-02 17:38:30 +0000"
+      "snowy_coniferous_forest": "2024-12-02 17:38:30 +0000",
+      "brushland": "2024-12-02 17:41:21 +0000"
     },
     "done": false
   },
@@ -71,6 +72,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "frozen_river": "2024-12-02 17:37:37 +0000",
+      "forest": "2024-12-02 17:40:26 +0000",
+      "beaches": "2024-12-02 17:42:06 +0000",
+      "forest_hills": "2024-12-02 17:40:33 +0000",
+      "savanna": "2024-12-02 17:41:08 +0000",
       "plains": "2024-12-02 17:36:24 +0000",
       "river": "2024-12-02 17:38:49 +0000"
     },
@@ -79,6 +84,12 @@
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-02 17:42:58 +0000"
     },
     "done": true
   },
