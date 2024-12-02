@@ -53,14 +53,17 @@ Events:
   playerDeath:
     type: player_death
     conditions:
-    - '%objective_score_{vidas}% == 1 execute action2'
+    - '%objective_score_{vidas}% == 0 execute action2'
     actions:
       default:
       - 'console_command: minecraft:scoreboard players remove %player% vidas 1'
-      - 'to_all: message: &fHa &a%player% &fle quedan &c%objective_score_{vidas}%
-        vidas.'
+      - 'to_all: message: &fA &a%player% &fle quedan &c%objective_score_{vidas}% vidas.'
       action2:
+      - 'console_command: minecraft:scoreboard players remove %player% vidas 1'
       - 'console_command: gamemode spectator %player%'
+      - 'console_command: minecraft:title @a times 20 60 20'
+      - 'console_command: minecraft:title @a subtitle {"text":"%player%","bold":true,"color":"dark_red"}'
+      - 'console_command: minecraft:title @a title {"text":"\u2620","bold":true,"color":"dark_red"}'
       - 'to_all: message: &f¡&a%player% &fse ha queado sin &cvidas&f!'
   firstJoin:
     type: player_join
@@ -69,3 +72,16 @@ Events:
     actions:
       default:
       - 'console_command: minecraft:scoreboard players set %player% vidas 10'
+  TotemUseEvent:
+    type: custom
+    custom_event_data:
+      event: org.bukkit.event.entity.EntityResurrectEvent
+      player_variable: getEntity()
+      variables_to_capture:
+      - '%cancelado%;isCancelled()'
+    conditions:
+    - '%cancelado% == false'
+    actions:
+      default:
+      - 'to_all: message: &e۞ &e&l%player% &eha consumido un tótem'
+    enabled: true
