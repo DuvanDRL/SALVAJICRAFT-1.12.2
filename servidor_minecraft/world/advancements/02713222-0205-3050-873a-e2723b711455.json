@@ -17,15 +17,15 @@
     },
     "done": true
   },
-  "tombstone:tutorial/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-03 22:27:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-03 21:52:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 22:27:11 +0000"
     },
     "done": true
   },
@@ -113,15 +113,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-03 22:57:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2024-12-03 22:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 22:57:57 +0000"
     },
     "done": true
   },
@@ -209,15 +209,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
-    "criteria": {
-      "has_hardened_clay": "2024-12-03 22:06:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 21:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-03 22:06:34 +0000"
     },
     "done": true
   },
@@ -371,15 +371,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-03 21:32:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 21:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 21:32:37 +0000"
     },
     "done": true
   },
@@ -464,15 +464,10 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-03 21:52:28 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-03 21:29:51 +0000",
+      "alps_foothills": "2024-12-03 23:43:46 +0000",
       "wetland": "2024-12-03 22:35:45 +0000",
       "maple_woods": "2024-12-03 23:00:33 +0000",
       "coral_reef": "2024-12-03 21:35:15 +0000",
@@ -485,6 +480,12 @@
       "brushland": "2024-12-03 21:28:33 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-03 21:52:28 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
     "criteria": {
@@ -528,12 +529,6 @@
     },
     "done": true
   },
-  "tombstone:tutorial/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-03 22:27:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-03 21:27:24 +0000"
@@ -552,15 +547,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
+  "tombstone:tutorial/choose_knowledge": {
     "criteria": {
-      "has_redstone": "2024-12-03 22:19:57 +0000"
+      "coded_trigger": "2024-12-03 22:27:32 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-03 21:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-03 22:19:57 +0000"
     },
     "done": true
   },
@@ -648,15 +649,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2024-12-03 22:19:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-03 21:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-03 22:19:57 +0000"
     },
     "done": true
   },
@@ -827,15 +828,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-03 22:59:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2024-12-03 21:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-03 22:59:47 +0000"
     },
     "done": true
   },
@@ -995,15 +996,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
-    "criteria": {
-      "has_hardened_clay": "2024-12-03 22:06:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 21:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-03 22:06:34 +0000"
     },
     "done": true
   },
@@ -1320,27 +1321,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_stone": "2024-12-03 22:21:51 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
       "has_gem_block": "2024-12-03 22:18:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
-      "has_redstone": "2024-12-03 22:19:57 +0000"
+      "has_stone": "2024-12-03 22:21:51 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 21:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-03 22:19:57 +0000"
     },
     "done": true
   },

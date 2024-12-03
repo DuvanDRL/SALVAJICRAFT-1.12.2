@@ -723,6 +723,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 23:43:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2024-12-03 21:39:23 +0000",
@@ -767,6 +773,12 @@
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-01 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/diamond_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-03 23:35:46 +0000"
     },
     "done": true
   },
@@ -1000,6 +1012,7 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "peridot": "2024-12-03 23:37:28 +0000",
       "ruby": "2024-12-03 22:37:25 +0000"
     },
     "done": false
@@ -1453,6 +1466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2024-12-03 23:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-12-01 02:27:05 +0000"
@@ -1558,6 +1577,12 @@
   "tombstone:tutorial/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-03 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 23:35:50 +0000"
     },
     "done": true
   },
