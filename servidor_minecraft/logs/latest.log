@@ -30869,3 +30869,52 @@
 [21:45:18] [Async Chat Thread - 13/INFO] []: [Owner] DuvanD: una estructura
 [21:45:25] [Server thread/TRACE] [reccomplex]: Generated structure 'Basswood' in StructureBoundingBox{x0=435, y0=68, z0=-1222, x1=445, y1=83, z1=-1212} (0)
 [21:45:32] [Server thread/INFO] [mca]: Villager death: Shaun. Caused by: drown. UUID: 0fdf1755-f258-44de-bb13-e0deab9bccf1
+[21:46:26] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneIceBoulder2' in StructureBoundingBox{x0=-900, y0=61, z0=-1066, x1=-891, y1=71, z1=-1057} (0)
+[21:46:26] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneIceBoulder1' in StructureBoundingBox{x0=-905, y0=63, z0=-874, x1=-895, y1=73, z1=-864} (0)
+[21:46:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[21:46:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm has made the advancement [Getting an Upgrade]
+[21:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lJuqncl has made the advancement [Isn't It Iron Pick]
+[21:51:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:51:40] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 timed out
+[21:51:40] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Steven351
+[21:51:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[21:51:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with Steven351
+[21:51:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[21:51:40] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[21:51:40] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of a1cfde2b-caac-37d0-b9e3-46980f547e63 to disconnected: {disabled=false, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=0580152b-e0a8-41bb-8c18-0fbdec0f82df}
+[21:51:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Steven351 lost connection: Timed out
+[21:51:47] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Steven351
+[21:51:47] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Steven351
+[21:51:47] [Server thread/INFO] []: [-] Steven351
+[21:51:48] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[21:51:58] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:51:58] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:51:58] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:51:58] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:51:58] [Async Chat Thread - 14/INFO] []: [Owner] DuvanD: si
+[21:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cockcocola has made the advancement [Isn't It Iron Pick]
+[21:52:04] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:52:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:52:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:52:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:52:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:52:09] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:52:10] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:52:10] [Server thread/DEBUG] [Scaling Health]: heart drop rate for American Bison is 0.001
+[21:52:11] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:52:12] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:52:13] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 does not have a secret
+[21:52:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Disconnected
+[21:52:20] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[21:52:20] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[21:52:20] [Server thread/INFO] []: [-] lJuqncl
+[21:52:20] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:52:20] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:52:20] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc does not have a secret
+[21:52:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: cockcocola has made the advancement [Stone Age]
+[21:53:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for American Bison is 0.001
+[21:54:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for American Bison is 0.001
+[21:54:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Galapagos Tortoise is 0.001
+[21:55:00] [Async Chat Thread - 15/INFO] []: [Owner] DuvanD: otra vez de noche
+[21:55:59] [Async Chat Thread - 15/INFO] []: [Owner] DuvanD: sera que me voy al mar a cazar bestias marinas

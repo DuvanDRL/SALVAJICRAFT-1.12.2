@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-03 21:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-03 21:38:54 +0000"
@@ -474,6 +480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-03 21:41:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-01 02:54:28 +0000"
@@ -488,6 +500,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "chaparral": "2024-12-03 21:42:35 +0000",
       "brushland": "2024-12-03 21:32:30 +0000"
     },
     "done": false
@@ -495,6 +508,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-03 21:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-12-03 21:47:15 +0000"
     },
     "done": true
   },
@@ -509,7 +528,8 @@
       "forest": "2024-12-03 21:30:18 +0000",
       "beaches": "2024-12-01 03:05:43 +0000",
       "plains": "2024-12-01 02:27:05 +0000",
-      "ocean": "2024-12-01 03:05:45 +0000"
+      "ocean": "2024-12-01 03:05:45 +0000",
+      "river": "2024-12-03 21:42:27 +0000"
     },
     "done": false
   },
@@ -666,6 +686,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2024-12-03 21:39:23 +0000",
+      "cave_spider": "2024-12-03 21:46:32 +0000",
+      "zombie": "2024-12-03 21:42:10 +0000",
       "spider": "2024-12-03 21:38:53 +0000"
     },
     "done": false
