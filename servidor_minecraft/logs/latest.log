@@ -30001,3 +30001,234 @@
 [20:18:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
 [20:19:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:24:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:29:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:29:22] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[20:29:23] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:29:23] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:29:23] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:29:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Disconnected
+[20:29:52] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[20:29:52] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[20:29:59] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[20:29:59] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:29:59] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:29:59] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:30:00] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:30:00] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[20:30:00] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[20:30:00] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[20:30:00] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[20:30:00] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:30:00] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[20:30:00] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[20:30:02] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:30:02] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[20:30:02] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:30:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:30:02] [Server thread/INFO] []: [+] lJuqncl
+[20:30:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of vidas for player lJuqncl to 10
+[20:30:02] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:30:02] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/3123, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=349.50, y=67.00, z=-892.50, cx=21, cd=-56, tl=0, v=true, d=false](lJuqncl at 349.5,67.0,-892.5))
+[20:30:02] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[20:30:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.229.116.146:38271] logged in with entity id 3123 at ([world]349.5, 67.0, -892.5)
+[20:30:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lJuqncl has made the advancement [Ice and Fire]
+[20:30:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Timed out
+[20:30:17] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[20:30:17] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[20:30:17] [Server thread/INFO] []: [-] lJuqncl
+[20:30:17] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[20:30:39] [User Authenticator #6/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[20:30:39] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:30:39] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:30:39] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:30:39] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:30:39] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[20:30:39] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[20:30:39] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[20:30:39] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[20:30:39] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:30:39] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[20:30:39] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[20:30:40] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:30:40] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[20:30:40] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:30:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:30:40] [Server thread/INFO] []: [+] lJuqncl
+[20:30:40] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:30:41] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/3582, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=349.50, y=67.00, z=-892.50, cx=21, cd=-56, tl=306, v=true, d=false](lJuqncl at 349.5,67.0,-892.5))
+[20:30:41] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[20:30:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.229.116.146:35207] logged in with entity id 3582 at ([world]349.5, 67.0, -892.5)
+[20:30:48] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Received secret request of lJuqncl (18)
+[20:30:48] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[20:30:48] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[20:30:48] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[20:30:48] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[20:30:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[20:30:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[20:30:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[20:30:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[20:30:50] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[20:32:19] [User Authenticator #7/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player skenecrackm is 96aa5d1a-35a1-3973-b483-597cb6e73744
+[20:32:19] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:32:19] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:32:19] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:32:20] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:32:20] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:71 mods->FMLHandshakeServerState$2:HELLO
+[20:32:20] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 71 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0,mobends@1.2.1
+[20:32:20] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[20:32:20] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[20:32:20] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:32:20] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[20:32:20] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[20:32:21] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:32:21] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[20:32:21] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:32:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:32:21] [Server thread/INFO] []: [+] skenecrackm
+[20:32:21] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:32:21] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['skenecrackm'/4755, uuid='96aa5d1a-35a1-3973-b483-597cb6e73744', l='world', x=348.00, y=67.00, z=-875.53, cx=21, cd=-55, tl=3918, v=true, d=false](skenecrackm at 348.0026478476274,67.0,-875.5254489196179))
+[20:32:21] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of skenecrackm: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[20:32:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: skenecrackm[/127.249.34.231:34077] logged in with entity id 4755 at ([world]348.0026478476274, 67.0, -875.5254489196179)
+[20:32:26] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of skenecrackm (18)
+[20:32:26] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Sending initial states to skenecrackm
+[20:32:26] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with skenecrackm
+[20:32:26] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with skenecrackm
+[20:32:26] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to skenecrackm
+[20:32:31] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[20:32:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[20:32:32] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of skenecrackm to connected: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[20:32:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
+[20:32:33] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[20:33:03] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Steven351 is a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:33:04] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:33:04] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:33:04] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:33:04] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:33:04] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[20:33:04] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[20:33:04] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[20:33:04] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[20:33:04] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:33:04] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[20:33:04] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[20:33:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:33:08] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[20:33:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:33:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:33:08] [Server thread/INFO] []: [+] Steven351
+[20:33:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of vidas for player Steven351 to 10
+[20:33:08] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['Steven351'/5497, uuid='a1cfde2b-caac-37d0-b9e3-46980f547e63', l='world', x=349.50, y=68.00, z=-892.50, cx=21, cd=-56, tl=0, v=true, d=false](Steven351 at 349.5,68.0,-892.5))
+[20:33:08] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Steven351: {disabled=false, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:33:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Steven351[/127.207.95.61:38563] logged in with entity id 5497 at ([world]349.5, 68.0, -892.5)
+[20:33:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Steven351 has made the advancement [Ice and Fire]
+[20:33:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:33:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Steven351 lost connection: Timed out
+[20:33:23] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Steven351
+[20:33:23] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Steven351
+[20:33:23] [Server thread/INFO] []: [-] Steven351
+[20:33:23] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[20:33:34] [Async Chat Thread - 6/INFO] []: [Owner] skenecrackm: v
+[20:34:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:34:04] [User Authenticator #9/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Steven351 is a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:34:04] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:34:04] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:34:04] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:34:04] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:34:04] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[20:34:04] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[20:34:04] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[20:34:04] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[20:34:05] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:34:05] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[20:34:05] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[20:34:07] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:34:07] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[20:34:07] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:34:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:34:07] [Server thread/INFO] []: [+] Steven351
+[20:34:07] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['Steven351'/6096, uuid='a1cfde2b-caac-37d0-b9e3-46980f547e63', l='world', x=349.50, y=68.00, z=-892.50, cx=21, cd=-56, tl=302, v=true, d=false](Steven351 at 349.5,68.0,-892.5))
+[20:34:07] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Steven351: {disabled=false, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Steven351[/127.207.95.61:57319] logged in with entity id 6096 at ([world]349.5, 68.0, -892.5)
+[20:34:07] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:34:11] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Received secret request of Steven351 (18)
+[20:34:11] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[20:34:11] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Steven351
+[20:34:11] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[20:34:11] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[20:34:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:34:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:34:20] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Steven351 to connected: {disabled=false, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Steven351 (a1cfde2b-caac-37d0-b9e3-46980f547e63) successfully connected to voice chat
+[20:34:27] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 timed out
+[20:34:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Steven351
+[20:34:30] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[20:34:30] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Steven351
+[20:34:30] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[20:34:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[20:34:30] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of a1cfde2b-caac-37d0-b9e3-46980f547e63 to disconnected: {disabled=true, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:31] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:31] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:34:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:34:32] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Steven351 to connected: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Steven351 (a1cfde2b-caac-37d0-b9e3-46980f547e63) successfully connected to voice chat
+[20:34:32] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 timed out
+[20:34:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Steven351
+[20:34:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[20:34:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Steven351
+[20:34:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[20:34:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[20:34:42] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of a1cfde2b-caac-37d0-b9e3-46980f547e63 to disconnected: {disabled=true, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:43] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:34:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:34:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Steven351 to connected: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Steven351 (a1cfde2b-caac-37d0-b9e3-46980f547e63) successfully connected to voice chat
+[20:34:44] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 timed out
+[20:34:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Steven351
+[20:34:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[20:34:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Steven351
+[20:34:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[20:34:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[20:34:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of a1cfde2b-caac-37d0-b9e3-46980f547e63 to disconnected: {disabled=true, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:55] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:34:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:34:56] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Steven351 to connected: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:34:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Steven351 (a1cfde2b-caac-37d0-b9e3-46980f547e63) successfully connected to voice chat
+[20:34:56] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:35:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 timed out
+[20:35:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Steven351
+[20:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[20:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Steven351
+[20:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[20:35:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[20:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of a1cfde2b-caac-37d0-b9e3-46980f547e63 to disconnected: {disabled=true, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:35:13] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:35:13] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:35:14] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:35:14] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Steven351 to connected: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:35:14] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Steven351 (a1cfde2b-caac-37d0-b9e3-46980f547e63) successfully connected to voice chat
+[20:35:14] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:35:35] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:35:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player a1cfde2b-caac-37d0-b9e3-46980f547e63 timed out
+[20:35:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Steven351
+[20:35:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Steven351
+[20:35:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Steven351
+[20:35:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Steven351
+[20:35:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Steven351
+[20:35:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of a1cfde2b-caac-37d0-b9e3-46980f547e63 to disconnected: {disabled=true, disconnected=true, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:35:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:35:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player a1cfde2b-caac-37d0-b9e3-46980f547e63
+[20:35:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Steven351 to connected: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:35:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Steven351 (a1cfde2b-caac-37d0-b9e3-46980f547e63) successfully connected to voice chat
+[20:35:50] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=true, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:35:52] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Steven351: {disabled=false, disconnected=false, uuid=a1cfde2b-caac-37d0-b9e3-46980f547e63, name=Steven351, group=null}
+[20:35:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm issued server command: /gamemode 1
+[20:35:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [skenecrackm: Set own game mode to Creative Mode]
+[20:36:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm has made the advancement [A Flaming Sword]
+[20:36:07] [Async Chat Thread - 7/INFO] []: [] Steven351: TENGO 2 FPS
+[20:36:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm has reached the goal [Bone Crusher]
+[20:36:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Mutant Skeleton is 0.01
