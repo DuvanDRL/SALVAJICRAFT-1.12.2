@@ -1,7 +1,13 @@
 {
-  "tombstone:tutorial/find_grave_dust": {
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
-      "has_grave_dust": "2024-12-03 21:22:50 +0000"
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
     },
     "done": true
   },
@@ -11,21 +17,21 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "tick": "2024-12-03 20:33:08 +0000"
+      "entered_water": "2024-12-03 21:28:09 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
-      "consumed_item": "2024-12-03 20:43:23 +0000"
+      "entered_water": "2024-12-03 21:28:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
-      "has_lots_of_items": "2024-12-03 21:18:51 +0000"
+      "entered_water": "2024-12-03 21:28:09 +0000"
     },
     "done": true
   },
@@ -35,23 +41,17 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie": "2024-12-03 21:22:48 +0000"
     },
     "done": false
-  },
-  "cfm:install": {
-    "criteria": {
-      "tick": "2024-12-03 20:33:08 +0000"
-    },
-    "done": true
-  },
-  "mutantbeasts:root": {
-    "criteria": {
-      "killed_something": "2024-12-03 21:22:48 +0000"
-    },
-    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -74,6 +74,141 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "brushland": "2024-12-03 21:28:26 +0000"
+    },
+    "done": false
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2024-12-03 20:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2024-12-03 21:28:01 +0000",
+      "beaches": "2024-12-03 20:42:49 +0000",
+      "plains": "2024-12-03 20:33:08 +0000",
+      "river": "2024-12-03 21:28:10 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2024-12-03 21:22:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-03 20:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-03 21:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2024-12-03 20:33:08 +0000"
+    },
+    "done": true
+  },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2024-12-03 21:22:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/ebony_planks": {
+    "criteria": {
+      "has_log": "2024-12-03 21:30:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-03 21:22:48 +0000"
@@ -86,17 +221,28 @@
     },
     "done": true
   },
-  "cfm:root": {
+  "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "tick": "2024-12-03 20:33:08 +0000"
+      "entered_water": "2024-12-03 21:28:09 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
-      "beaches": "2024-12-03 20:42:49 +0000",
-      "plains": "2024-12-03 20:33:08 +0000"
+      "entered_water": "2024-12-03 21:28:09 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
   }
 }
