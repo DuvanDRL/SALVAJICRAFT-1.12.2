@@ -12,9 +12,6 @@
 verbose: false
 config-version: 13
 settings:
-  save-player-data: true
-  use-alternative-luck-formula: false
-  min-chunk-load-threads: 2
   suggest-player-names-when-null-tab-completions: true
   spam-limiter:
     tab-spam-increment: 10
@@ -31,12 +28,15 @@ settings:
   player-auto-save-rate: -1
   max-player-auto-save-per-tick: -1
   remove-invalid-statistics: false
+  save-player-data: true
+  use-alternative-luck-formula: false
+  min-chunk-load-threads: 2
   bungee-online-mode: true
 messages:
   kick:
+    authentication-servers-down: ''
     flying-player: Flying is not enabled on this server
     flying-vehicle: Flying is not enabled on this server
-    authentication-servers-down: ''
 timings:
   enabled: true
   verbose: true

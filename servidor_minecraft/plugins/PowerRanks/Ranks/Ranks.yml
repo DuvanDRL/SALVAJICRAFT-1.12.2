@@ -53,4 +53,7 @@ Groups:
       cost: 0
     gui:
       icon: stone
+  'null':
+    permissions: []
+    inheritance: []
 version: 1.9.6
