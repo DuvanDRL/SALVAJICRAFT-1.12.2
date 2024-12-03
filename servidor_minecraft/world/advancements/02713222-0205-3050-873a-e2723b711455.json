@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/willow_planks": {
+    "criteria": {
+      "has_log": "2024-12-03 22:38:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2024-12-03 20:54:58 +0000"
@@ -713,6 +719,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-03 21:29:51 +0000",
+      "wetland": "2024-12-03 22:35:45 +0000",
       "coral_reef": "2024-12-03 21:35:15 +0000",
       "moor": "2024-12-03 22:30:06 +0000",
       "snowy_forest": "2024-12-03 21:37:07 +0000",
