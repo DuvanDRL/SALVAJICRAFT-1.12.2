@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-03 21:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:05:01 +0000"
@@ -650,6 +656,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-03 21:30:08 +0000",
+      "steppe": "2024-12-03 21:56:49 +0000",
       "chaparral": "2024-12-01 01:35:29 +0000",
       "cold_desert": "2024-12-02 02:45:26 +0000",
       "gravel_beach": "2024-12-02 02:47:42 +0000",
@@ -1071,6 +1078,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-02 17:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-12-03 21:54:26 +0000"
     },
     "done": true
   },
