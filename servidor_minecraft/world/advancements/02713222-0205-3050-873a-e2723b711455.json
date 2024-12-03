@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 22:27:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-03 21:52:28 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-03 22:26:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-03 20:59:00 +0000"
@@ -470,6 +482,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 21:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-03 22:27:05 +0000"
     },
     "done": true
   },
@@ -696,6 +714,7 @@
     "criteria": {
       "shrubland": "2024-12-03 21:29:51 +0000",
       "coral_reef": "2024-12-03 21:35:15 +0000",
+      "moor": "2024-12-03 22:30:06 +0000",
       "snowy_forest": "2024-12-03 21:37:07 +0000",
       "kelp_forest": "2024-12-03 21:35:31 +0000",
       "meadow": "2024-12-03 21:36:28 +0000",
@@ -761,6 +780,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-03 22:06:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 22:27:32 +0000"
     },
     "done": true
   },
@@ -953,6 +978,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2024-12-03 21:00:26 +0000",
+      "skeleton": "2024-12-03 22:27:04 +0000",
       "zombie": "2024-12-03 21:21:18 +0000",
       "spider": "2024-12-03 21:20:35 +0000",
       "creeper": "2024-12-03 22:21:02 +0000"
@@ -1022,6 +1048,12 @@
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-03 22:06:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 22:27:11 +0000"
     },
     "done": true
   },
