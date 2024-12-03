@@ -29994,3 +29994,10 @@
 [20:16:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of skenecrackm to connected: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
 [20:16:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
 [20:16:54] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[20:18:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm lost connection: Disconnected
+[20:18:44] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of skenecrackm
+[20:18:44] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client skenecrackm
+[20:18:44] [Server thread/INFO] []: [-] skenecrackm
+[20:18:44] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 96aa5d1a-35a1-3973-b483-597cb6e73744 does not have a secret
+[20:19:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:24:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
