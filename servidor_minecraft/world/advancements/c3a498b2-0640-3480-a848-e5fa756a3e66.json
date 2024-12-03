@@ -133,7 +133,8 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
-      "peridot": "2024-12-03 23:38:56 +0000"
+      "peridot": "2024-12-03 23:38:56 +0000",
+      "ruby": "2024-12-03 23:54:28 +0000"
     },
     "done": false
   },
@@ -158,6 +159,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2024-12-03 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-03 23:54:10 +0000"
     },
     "done": true
   },
@@ -416,6 +423,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "brushland": "2024-12-03 23:54:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2024-12-03 23:28:57 +0000"
@@ -595,6 +608,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2024-12-03 23:54:21 +0000",
       "zombie": "2024-12-03 23:40:11 +0000"
     },
     "done": false
