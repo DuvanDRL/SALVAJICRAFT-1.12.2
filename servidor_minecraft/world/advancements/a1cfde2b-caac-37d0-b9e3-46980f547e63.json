@@ -1,10 +1,4 @@
 {
-  "biomesoplenty:recipes/transportation/boat_ethereal": {
-    "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2024-12-03 21:28:09 +0000"
@@ -14,6 +8,331 @@
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2024-12-03 20:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-03 21:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-03 21:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2024-12-03 21:22:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
+    "criteria": {
+      "has_planks": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-03 21:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-12-03 21:18:51 +0000",
+      "iron_chestplate": "2024-12-03 21:18:51 +0000",
+      "iron_leggings": "2024-12-03 21:18:51 +0000",
+      "iron_helmet": "2024-12-03 21:18:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-03 21:22:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2024-12-03 21:32:09 +0000",
+      "brushland": "2024-12-03 21:28:26 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
+    "criteria": {
+      "has_planks": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-03 21:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-12-03 21:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-03 21:38:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
+    "criteria": {
+      "has_planks": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2024-12-03 21:28:01 +0000",
+      "beaches": "2024-12-03 20:42:49 +0000",
+      "plains": "2024-12-03 20:33:08 +0000",
+      "river": "2024-12-03 21:28:10 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2024-12-03 21:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-03 21:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-03 20:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-03 21:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-03 21:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-03 21:38:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-03 21:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-03 21:38:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2024-12-03 20:33:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-03 21:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 21:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-03 21:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 21:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-03 21:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-03 21:37:13 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-03 20:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
+    "criteria": {
+      "has_planks": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-03 21:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-03 21:38:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/ebony_door": {
+    "criteria": {
+      "has_planks": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-03 21:38:58 +0000"
     },
     "done": true
   },
@@ -35,15 +354,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "zombie": "2024-12-03 21:22:48 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "entered_water": "2024-12-03 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/ebony_fence": {
+    "criteria": {
+      "has_planks": "2024-12-03 21:32:17 +0000"
     },
     "done": true
   },
@@ -53,12 +372,9 @@
     },
     "done": false
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:recipes/decorations/fence": {
     "criteria": {
-      "iron_boots": "2024-12-03 21:18:51 +0000",
-      "iron_chestplate": "2024-12-03 21:18:51 +0000",
-      "iron_leggings": "2024-12-03 21:18:51 +0000",
-      "iron_helmet": "2024-12-03 21:18:51 +0000"
+      "has_planks": "2024-12-03 21:39:28 +0000"
     },
     "done": true
   },
@@ -68,66 +384,33 @@
     },
     "done": false
   },
-  "tombstone:recipes/from_grave_dust": {
+  "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_ingredient": "2024-12-03 21:22:50 +0000"
+      "has_stick": "2024-12-03 21:33:03 +0000"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "brushland": "2024-12-03 21:28:26 +0000"
+      "has_cobblestone": "2024-12-03 21:38:58 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
+    "criteria": {
+      "has_planks": "2024-12-03 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-03 21:38:58 +0000"
+    },
+    "done": true
   },
   "cfm:root": {
     "criteria": {
       "tick": "2024-12-03 20:33:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "forest": "2024-12-03 21:28:01 +0000",
-      "beaches": "2024-12-03 20:42:49 +0000",
-      "plains": "2024-12-03 20:33:08 +0000",
-      "river": "2024-12-03 21:28:10 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/transportation/boat_fir": {
-    "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:tutorial/find_grave_dust": {
-    "criteria": {
-      "has_grave_dust": "2024-12-03 21:22:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-12-03 20:33:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-03 20:43:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-03 21:18:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
     },
     "done": true
   },
@@ -149,15 +432,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_willow": {
+  "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
     "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
+      "has_planks": "2024-12-03 21:32:17 +0000"
     },
     "done": true
   },
-  "cfm:install": {
+  "biomesoplenty:recipes/buildingblocks/ebony_wooden_slab": {
     "criteria": {
-      "tick": "2024-12-03 20:33:08 +0000"
+      "has_planks": "2024-12-03 21:32:17 +0000"
     },
     "done": true
   },
@@ -167,9 +450,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+  "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
+      "has_planks": "2024-12-03 21:39:28 +0000"
     },
     "done": true
   },
@@ -179,15 +462,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:story/root": {
     "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_pine": {
-    "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
+      "crafting_table": "2024-12-03 21:32:22 +0000"
     },
     "done": true
   },
@@ -203,43 +480,25 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_redwood": {
+  "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
+      "has_cobblestone": "2024-12-03 21:38:58 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "killed_something": "2024-12-03 21:22:48 +0000"
+      "has_the_recipe": "2024-12-03 21:37:13 +0000"
     },
     "done": true
   },
-  "mowziesmobs:root": {
+  "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
-      "custom_test_name": "2024-12-03 20:33:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
+      "has_planks": "2024-12-03 21:39:28 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
-    "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "entered_water": "2024-12-03 21:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-12-03 21:28:09 +0000"
     },
