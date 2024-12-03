@@ -25,7 +25,7 @@ Groups:
     chat:
       prefix: '[&bOwner&r]'
       suffix: ''
-      chatColor: '&c&l'
+      chatColor: '&f'
       nameColor: '&f'
     level:
       promote: ''
@@ -56,4 +56,6 @@ Groups:
   'null':
     permissions: []
     inheritance: []
+    chat:
+      chatColor: '&f'
 version: 1.9.6

@@ -96,6 +96,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-03 21:00:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2024-12-03 20:43:51 +0000"
