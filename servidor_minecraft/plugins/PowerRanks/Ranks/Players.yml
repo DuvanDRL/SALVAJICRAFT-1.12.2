@@ -48,4 +48,11 @@ players:
     playtime: 7453
     rank: Owner
     subranks: ''
+  c3a498b2-0640-3480-a848-e5fa756a3e66:
+    playtime: 0
+    name: EstebanPRL
+    subranks: ''
+    usertag: ''
+    rank: Member
+    permissions: []
 version: 1.9.6

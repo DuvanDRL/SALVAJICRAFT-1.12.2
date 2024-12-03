@@ -30067,3 +30067,85 @@ Ice and Fire: Requires version 1.9.1 but mod is not found on client.
 [23:17:18] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of EstebanPRL
 [23:17:18] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client EstebanPRL
 [23:18:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:19:15] [Async Chat Thread - 7/INFO] []: [Owner] DuvanD: aa
+[23:19:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:19:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:20:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:20:36] [User Authenticator #6/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player EstebanPRL is c3a498b2-0640-3480-a848-e5fa756a3e66
+[23:20:36] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:20:36] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:20:36] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:20:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:20:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:69 mods->FMLHandshakeServerState$2:HELLO
+[23:20:36] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 69 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[23:20:36] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist, iceandfire] modCLIENT
+[23:20:36] [Netty Epoll Server IO #1/INFO] [FML]: Rejecting connection CLIENT: Ice and Fire: Requires version 1.9.1 but mod is not found on client.
+[23:20:36] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: ERROR
+[23:20:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: EstebanPRL lost connection: Server Mod rejections: 
+Ice and Fire: Requires version 1.9.1 but mod is not found on client.
+[23:20:36] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of EstebanPRL
+[23:20:36] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client EstebanPRL
+[23:21:10] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[23:21:18] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=-304, y0=75, z0=-317, x1=-298, y1=95, z1=-311} (0)
+[23:21:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[23:21:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: skenecrackm has made the advancement [Magic Writing]
+[23:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD has made the advancement [Sea of Monsters]
+[23:22:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sea Serpent is 0.001
+[23:22:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
+[23:22:39] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.17 and blood value 0 for entity zawa:frigate
+[23:24:36] [User Authenticator #7/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player EstebanPRL is c3a498b2-0640-3480-a848-e5fa756a3e66
+[23:24:36] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:24:36] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:24:36] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:24:36] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:24:36] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[23:24:36] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[23:24:36] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[23:24:36] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[23:24:36] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:24:36] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[23:24:36] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[23:24:38] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:24:38] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[23:24:38] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:24:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:24:38] [Server thread/INFO] []: [+] EstebanPRL
+[23:24:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of vidas for player EstebanPRL to 10
+[23:24:39] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['EstebanPRL'/12845, uuid='c3a498b2-0640-3480-a848-e5fa756a3e66', l='world', x=349.50, y=68.00, z=-892.50, cx=21, cd=-56, tl=0, v=true, d=false](EstebanPRL at 349.5,68.0,-892.5))
+[23:24:39] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of EstebanPRL: {disabled=false, disconnected=true, uuid=c3a498b2-0640-3480-a848-e5fa756a3e66, name=EstebanPRL, group=null}
+[23:24:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: EstebanPRL[/127.134.187.169:44705] logged in with entity id 12845 at ([world]349.5, 68.0, -892.5)
+[23:24:39] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:24:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EstebanPRL has made the advancement [Ice and Fire]
+[23:24:39] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound' in StructureBoundingBox{x0=-336, y0=76, z0=-323, x1=-331, y1=86, z1=-318} (0)
+[23:24:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:24:42] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of EstebanPRL (18)
+[23:24:42] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Sending initial states to EstebanPRL
+[23:24:42] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with EstebanPRL
+[23:24:42] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with EstebanPRL
+[23:24:42] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to EstebanPRL
+[23:24:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c3a498b2-0640-3480-a848-e5fa756a3e66
+[23:24:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c3a498b2-0640-3480-a848-e5fa756a3e66
+[23:24:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of EstebanPRL to connected: {disabled=false, disconnected=false, uuid=c3a498b2-0640-3480-a848-e5fa756a3e66, name=EstebanPRL, group=null}
+[23:24:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player EstebanPRL (c3a498b2-0640-3480-a848-e5fa756a3e66) successfully connected to voice chat
+[23:24:51] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of EstebanPRL: {disabled=true, disconnected=false, uuid=c3a498b2-0640-3480-a848-e5fa756a3e66, name=EstebanPRL, group=null}
+[23:24:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:25:17] [Async Chat Thread - 8/INFO] []: [Owner] skenecrackm: metase al grupo
+[23:25:17] [Async Chat Thread - 8/INFO] []: [Owner] DuvanD: no tiene microfono
+[23:25:17] [Async Chat Thread - 8/INFO] []: [] lJuqncl: metase al grupo de chat de voz
+[23:25:20] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:echidna
+[23:25:20] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:platypus
+[23:25:30] [Async Chat Thread - 8/INFO] []: [Owner] DuvanD: es mi hermano
+[23:25:30] [Async Chat Thread - 8/INFO] []: [Owner] DuvanD: xd
+[23:25:31] [Async Chat Thread - 8/INFO] []: [] lJuqncl: para escucha nomas
+[23:25:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EstebanPRL has made the advancement [Suit Up]
+[23:26:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [-330, -279] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@251aed8e
+[23:26:43] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [-338, -267] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@251aed8e
+[23:26:43] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=-342, y0=74, z0=-270, x1=-337, y1=89, z1=-264} (0)
+[23:26:43] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=-343, y0=68, z0=-283, x1=-338, y1=83, z1=-277} (0)
+[23:26:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [-329, -265] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@251aed8e
+[23:26:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [-337, -278] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@251aed8e
+[23:26:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-338, -277] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@251aed8e
+[23:26:43] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-341, -269] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@251aed8e
+[23:26:43] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=-337, y0=76, z0=-278, x1=-331, y1=96, z1=-272} (0)
+[23:27:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[23:28:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /lr ping skenecrackm
