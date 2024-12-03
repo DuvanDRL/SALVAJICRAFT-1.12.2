@@ -53,7 +53,7 @@ Events:
   playerDeath:
     type: player_death
     conditions:
-    - '%objective_score_{vidas}% == 0 execute action2'
+    - '%objective_score_{vidas}% == 1 execute action2'
     actions:
       default:
       - 'console_command: minecraft:scoreboard players remove %player% vidas 1'

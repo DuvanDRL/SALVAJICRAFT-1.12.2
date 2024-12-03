@@ -1,32 +1,6 @@
-[16:54:14][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Mon Dec 02 16:54:14 UTC 2024
-[16:54:14][FINE/CustomNPCs][noppes.npcs.CustomNpcs:236] Script Engines Available:
-[16:54:22][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
-[16:54:22][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
-[16:54:35][FINE/CustomNPCs][noppes.npcs.CustomNpcs:300] Loading Dialogs
-[16:54:35][FINE/CustomNPCs][noppes.npcs.CustomNpcs:300] Done loading Dialogs
-[17:10:06][SEVERE/CustomNPCs][java.util.concurrent.Executors$RunnableAdapter:511] Error with EnumPacketServer.NpcMenuClose
-[17:10:06][SEVERE/CustomNPCs][java.util.concurrent.Executors$RunnableAdapter:511] java.util.ConcurrentModificationException
-	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
-	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
-	at org.bukkit.permissions.PermissibleBase.clearPermissions(PermissibleBase.java:174)
-	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.clearPermissions(PowerPermissibleBase.java:175)
-	at org.bukkit.permissions.PermissibleBase.recalculatePermissions(PermissibleBase.java:155)
-	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.recalculatePermissions(PowerPermissibleBase.java:88)
-	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.recalculatePermissions(CraftHumanEntity.java:176)
-	at nl.svenar.PowerRanks.PowerRanks.getEffectivePlayerPermissions(PowerRanks.java:941)
-	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.hasPermission(PowerPermissibleBase.java:40)
-	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.hasPermission(CraftHumanEntity.java:148)
-	at com.mohistmc.forge.BukkitPermissionsHandler.hasPermission(BukkitPermissionsHandler.java:43)
-	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:82)
-	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:93)
-	at noppes.npcs.CustomNpcsPermissions.hasPermissionString(CustomNpcsPermissions.java:74)
-	at noppes.npcs.CustomNpcsPermissions.hasPermission(CustomNpcsPermissions.java:68)
-	at noppes.npcs.PacketHandlerServer.lambda$onServerPacket$0(PacketHandlerServer.java:83)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	at net.minecraft.util.Util.func_181617_a(SourceFile:46)
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840)
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461)
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778)
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624)
-	at java.lang.Thread.run(Thread.java:750)
+[02:50:39][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Tue Dec 03 02:50:39 UTC 2024
+[02:50:39][FINE/CustomNPCs][noppes.npcs.CustomNpcs:236] Script Engines Available:
+[02:50:45][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
+[02:50:45][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
+[02:50:55][FINE/CustomNPCs][noppes.npcs.CustomNpcs:300] Loading Dialogs
+[02:50:56][FINE/CustomNPCs][noppes.npcs.CustomNpcs:300] Done loading Dialogs
