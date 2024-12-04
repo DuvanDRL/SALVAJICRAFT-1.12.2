@@ -849,6 +849,12 @@
     },
     "done": true
   },
+  "wolfarmor:recipes/combat/diamond_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-04 00:08:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-02 03:52:16 +0000"

@@ -1124,6 +1124,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-04 00:05:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-03 22:57:57 +0000"
@@ -1231,7 +1237,8 @@
       "ocean": "2024-12-03 21:34:29 +0000",
       "extreme_hills": "2024-12-03 23:54:53 +0000",
       "cold_beach": "2024-12-03 21:36:59 +0000",
-      "river": "2024-12-03 21:10:31 +0000"
+      "river": "2024-12-03 21:10:31 +0000",
+      "stone_beach": "2024-12-04 00:05:10 +0000"
     },
     "done": false
   },
