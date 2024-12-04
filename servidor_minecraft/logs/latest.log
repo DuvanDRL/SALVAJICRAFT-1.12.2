@@ -29970,3 +29970,15 @@
 [01:35:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
 [01:36:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
 [01:39:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:44:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:45:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[01:46:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[01:46:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[01:48:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Witch is 0.01
+[01:49:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:49:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[01:52:04] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 3.72 and blood value 15 for entity zawa:moose
+[01:52:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[01:52:35] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:brownrat
+[01:53:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:53:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
