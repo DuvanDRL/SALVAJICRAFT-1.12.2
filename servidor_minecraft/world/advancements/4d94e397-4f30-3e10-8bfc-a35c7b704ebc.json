@@ -1345,6 +1345,7 @@
       "redwood_taiga": "2024-12-03 23:56:30 +0000",
       "taiga": "2024-12-03 23:55:26 +0000",
       "redwood_taiga_hills": "2024-12-03 23:58:53 +0000",
+      "taiga_hills": "2024-12-04 00:38:11 +0000",
       "ocean": "2024-12-03 21:08:31 +0000",
       "extreme_hills": "2024-12-03 22:56:03 +0000",
       "river": "2024-12-03 21:10:30 +0000"
@@ -1414,6 +1415,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-03 22:33:51 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/leather_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-04 00:36:11 +0000"
     },
     "done": true
   },
