@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-12-04 03:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2024-12-04 02:42:23 +0000",
@@ -41,9 +47,16 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-04 02:52:12 +0000",
+      "boreal_forest": "2024-12-04 02:56:25 +0000",
       "brushland": "2024-12-04 02:50:06 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-12-04 03:00:00 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
@@ -57,9 +70,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_fir": {
+  "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
-      "entered_water": "2024-12-04 02:49:58 +0000"
+      "has_the_recipe": "2024-12-04 03:00:00 +0000"
     },
     "done": true
   },
@@ -70,6 +83,36 @@
       "river": "2024-12-04 02:49:58 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2024-12-04 02:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-04 02:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:00:00 +0000"
+    },
+    "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
@@ -137,9 +180,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-04 03:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-04 02:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:00:00 +0000"
     },
     "done": true
   },
@@ -149,15 +204,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "entered_water": "2024-12-04 02:49:58 +0000"
+      "has_planks": "2024-12-04 03:00:00 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-04 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2024-12-04 02:49:58 +0000"
     },
     "done": true
   },
@@ -173,15 +234,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-12-04 02:49:58 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-12-04 03:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-04 02:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:00:00 +0000"
     },
     "done": true
   },
@@ -245,6 +330,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-12-04 03:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-04 02:49:58 +0000"
@@ -254,6 +345,18 @@
   "cfm:root": {
     "criteria": {
       "tick": "2024-12-04 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2024-12-04 02:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:00:00 +0000"
     },
     "done": true
   },
@@ -275,9 +378,27 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-04 03:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:00:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
       "entered_water": "2024-12-04 02:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-04 03:00:04 +0000"
     },
     "done": true
   },
@@ -290,6 +411,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-04 02:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-04 03:00:00 +0000"
     },
     "done": true
   },
