@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "cfm:unwrap_present": {
+    "criteria": {
+      "unwrap_present": "2024-12-04 16:52:03 +0000"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2024-12-04 16:05:06 +0000"
@@ -44,6 +50,12 @@
   "mutantbeasts:root": {
     "criteria": {
       "killed_something": "2024-12-04 16:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2024-12-04 16:51:05 +0000"
     },
     "done": true
   },
