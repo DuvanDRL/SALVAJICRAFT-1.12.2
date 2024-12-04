@@ -5,9 +5,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-04 04:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 04:21:31 +0000"
     },
     "done": true
   },
@@ -23,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-04 04:13:26 +0000"
@@ -32,6 +56,30 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-04 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:25:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2024-12-04 04:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
     },
     "done": true
   },
@@ -47,9 +95,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:25:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-04 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
     },
     "done": true
   },
@@ -62,6 +122,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-04 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
     },
     "done": true
   },
@@ -101,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-04 04:20:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
       "entered_water": "2024-12-04 02:14:07 +0000"
@@ -119,15 +191,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-04 04:24:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-04 03:03:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-04 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-04 04:24:33 +0000"
     },
     "done": true
   },
@@ -158,6 +248,12 @@
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-04 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
     },
     "done": true
   },
@@ -206,6 +302,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-04 02:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
     },
     "done": true
   },
@@ -284,6 +386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:25:51 +0000"
+    },
+    "done": true
+  },
   "mutantbeasts:root": {
     "criteria": {
       "killed_something": "2024-12-04 02:22:56 +0000"
@@ -308,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-04 02:16:48 +0000"
@@ -317,6 +431,18 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-04 02:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-04 04:24:33 +0000"
     },
     "done": true
   },
@@ -377,6 +503,12 @@
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-04 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
     },
     "done": true
   },
@@ -441,6 +573,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2024-12-04 04:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
     },
     "done": true
   },
@@ -564,9 +702,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:25:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2024-12-04 02:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
     },
     "done": true
   },
@@ -584,9 +734,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-04 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-04 04:25:51 +0000"
     },
     "done": true
   },
@@ -608,9 +770,33 @@
     },
     "done": true
   },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 04:21:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2024-12-04 02:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-04 04:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 04:20:22 +0000"
     },
     "done": true
   },
