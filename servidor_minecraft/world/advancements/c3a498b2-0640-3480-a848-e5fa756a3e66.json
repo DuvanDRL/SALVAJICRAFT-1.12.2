@@ -11,9 +11,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2024-12-03 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2024-12-03 23:57:15 +0000"
     },
     "done": true
   },
@@ -23,9 +47,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2024-12-03 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-04 00:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2024-12-03 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
     },
     "done": true
   },
@@ -50,6 +110,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
     },
     "done": true
   },
@@ -89,6 +155,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2024-12-03 23:37:42 +0000"
@@ -116,6 +194,12 @@
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "entered_water": "2024-12-03 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-04 00:02:12 +0000"
     },
     "done": true
   },
@@ -162,15 +246,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-03 23:54:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-04 00:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-12-03 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
     },
     "done": true
   },
@@ -210,15 +312,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2024-12-03 23:27:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
     },
     "done": true
   },
@@ -233,6 +359,12 @@
       "has_iron_ingot": "2024-12-03 23:32:34 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-03 23:56:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -249,6 +381,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
     },
     "done": true
   },
@@ -282,9 +420,33 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bop_flower_1": "2024-12-04 00:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-04 00:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-03 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
     },
     "done": true
   },
@@ -336,9 +498,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:30:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/miners_delight": {
+    "criteria": {
+      "miners_delight": "2024-12-04 00:00:55 +0000"
     },
     "done": true
   },
@@ -348,15 +528,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 23:32:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-12-03 23:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
     },
     "done": true
   },
@@ -369,6 +567,12 @@
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2024-12-03 23:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
     },
     "done": true
   },
@@ -390,6 +594,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:28:26 +0000"
@@ -402,6 +618,12 @@
       "iron_chestplate": "2024-12-03 23:25:31 +0000",
       "iron_leggings": "2024-12-03 23:25:31 +0000",
       "iron_helmet": "2024-12-03 23:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-04 00:02:12 +0000"
     },
     "done": true
   },
@@ -428,6 +650,12 @@
       "brushland": "2024-12-03 23:54:02 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
+    "criteria": {
+      "has_flower": "2024-12-03 23:56:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
@@ -468,6 +696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-04 00:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-03 23:28:33 +0000"
@@ -486,9 +720,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 23:56:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-03 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
     },
     "done": true
   },
@@ -513,6 +759,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-03 23:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
     },
     "done": true
   },
@@ -564,9 +816,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2024-12-03 23:57:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-03 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
     },
     "done": true
   },
@@ -594,6 +858,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-04 00:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-04 00:02:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2024-12-03 23:27:00 +0000"
@@ -613,6 +889,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-04 00:02:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_miners_delight": {
+    "criteria": {
+      "has_flower": "2024-12-04 00:00:55 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/iron_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2024-12-03 23:37:40 +0000"
@@ -625,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-12-04 00:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2024-12-03 23:38:12 +0000"
@@ -634,6 +928,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-03 23:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
     },
     "done": true
   },
@@ -667,15 +967,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-04 00:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2024-12-03 23:28:50 +0000"
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-04 00:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-03 23:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-04 00:02:12 +0000"
     },
     "done": true
   },
@@ -700,6 +1018,24 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-03 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-03 23:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-03 23:58:50 +0000"
     },
     "done": true
   }

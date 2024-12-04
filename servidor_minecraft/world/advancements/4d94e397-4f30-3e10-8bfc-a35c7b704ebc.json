@@ -560,6 +560,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-04 00:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-03 22:15:24 +0000"
@@ -677,6 +683,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-03 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-03 23:57:41 +0000"
     },
     "done": true
   },
@@ -908,6 +920,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 22:32:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2024-12-03 23:57:41 +0000"
     },
     "done": true
   },
@@ -1309,8 +1327,12 @@
     "criteria": {
       "forest": "2024-12-03 21:27:51 +0000",
       "beaches": "2024-12-03 20:36:45 +0000",
+      "forest_hills": "2024-12-04 00:03:44 +0000",
       "plains": "2024-12-03 20:30:02 +0000",
       "savanna": "2024-12-03 22:43:14 +0000",
+      "redwood_taiga": "2024-12-03 23:56:30 +0000",
+      "taiga": "2024-12-03 23:55:26 +0000",
+      "redwood_taiga_hills": "2024-12-03 23:58:53 +0000",
       "ocean": "2024-12-03 21:08:31 +0000",
       "extreme_hills": "2024-12-03 22:56:03 +0000",
       "river": "2024-12-03 21:10:30 +0000"

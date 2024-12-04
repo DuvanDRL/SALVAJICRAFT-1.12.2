@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-04 00:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-03 21:06:31 +0000"
@@ -740,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-03 23:56:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2024-12-03 20:54:58 +0000"
@@ -827,6 +839,12 @@
   "biomesoplenty:recipes/transportation/boat_fir": {
     "criteria": {
       "entered_water": "2024-12-03 20:54:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2024-12-04 00:00:40 +0000"
     },
     "done": true
   },
@@ -1184,6 +1202,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-04 00:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2024-12-03 21:52:24 +0000"
@@ -1197,6 +1221,7 @@
       "taiga_cold_hills": "2024-12-03 23:54:40 +0000",
       "deep_ocean": "2024-12-03 21:36:12 +0000",
       "beaches": "2024-12-03 20:54:54 +0000",
+      "extreme_hills_with_trees": "2024-12-04 00:00:41 +0000",
       "plains": "2024-12-03 20:51:03 +0000",
       "ice_mountains": "2024-12-03 23:47:18 +0000",
       "taiga": "2024-12-03 23:54:16 +0000",
@@ -1204,6 +1229,7 @@
       "taiga_hills": "2024-12-03 23:54:45 +0000",
       "taiga_cold": "2024-12-03 23:03:33 +0000",
       "ocean": "2024-12-03 21:34:29 +0000",
+      "extreme_hills": "2024-12-03 23:54:53 +0000",
       "cold_beach": "2024-12-03 21:36:59 +0000",
       "river": "2024-12-03 21:10:31 +0000"
     },

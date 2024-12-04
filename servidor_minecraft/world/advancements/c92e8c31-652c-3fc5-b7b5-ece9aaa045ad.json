@@ -639,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-03 23:59:25 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/bat": {
     "criteria": {
       "action": "2024-12-01 02:50:42 +0000"
