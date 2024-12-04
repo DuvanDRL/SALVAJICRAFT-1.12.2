@@ -29872,3 +29872,14 @@
 [20:05:53] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.26 and blood value 0 for entity zawa:indianpangolin
 [20:05:53] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:echidna
 [20:06:14] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.2 and blood value 0 for entity zawa:greenanaconda
+[20:09:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:35] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTreeBig' in StructureBoundingBox{x0=30367, y0=67, z0=30046, x1=30375, y1=83, z1=30054} (0)
+[20:11:21] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.03 and blood value 0 for entity iceandfire:firedragon
+[20:11:42] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound' in StructureBoundingBox{x0=30209, y0=68, z0=29778, x1=30214, y1=78, z1=29783} (0)
+[20:11:42] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantBoulder' in StructureBoundingBox{x0=30216, y0=63, z0=29772, x1=30226, y1=73, z1=29782} (0)
+[20:14:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:16:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /scoreboard players reset GOD vidas
+[20:16:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Reset score vidas of player GOD]
+[20:18:07] [Async Chat Thread - 6/INFO] []: [] Pipelon777: 956373
+[20:18:21] [Async Chat Thread - 6/INFO] []: [] Pipelon777: 657843
+[20:18:34] [Async Chat Thread - 6/INFO] []: [] Pipelon777: 418629
