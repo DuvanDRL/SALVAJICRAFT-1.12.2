@@ -30010,3 +30010,1195 @@
 [20:38:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
 [20:38:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /give GOD minecraft:command_block
 [20:38:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GOD: Given [Command Block] * 1 to GOD]
+[20:39:01] [Async Chat Thread - 7/INFO] []: [] GOD: hayq ue tapar con algo el techo
+[20:39:06] [Async Chat Thread - 7/INFO] []: [] GOD: se generan mobs y caen al laberinto
+[20:39:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:39:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:27] [Async Chat Thread - 7/INFO] []: [] GOD: un esueleto mutante xd
+[20:39:40] [Async Chat Thread - 7/INFO] []: [] Pipelon777: donde?
+[20:39:44] [Async Chat Thread - 7/INFO] []: [] GOD: por ahi en el techo
+[20:39:52] [Async Chat Thread - 7/INFO] []: [] Pipelon777: que putas
+[20:40:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:40:22] [Async Chat Thread - 7/INFO] []: [] GOD: tmb voy a hacer
+[20:40:26] [Async Chat Thread - 7/INFO] []: [] GOD: que no se pueda usar el chat
+[20:40:28] [Async Chat Thread - 7/INFO] []: [] Pipelon777: listo ya puse de todos los tipos de codigos
+[20:40:30] [Async Chat Thread - 7/INFO] []: [] GOD: tipo asi
+[20:40:34] [Async Chat Thread - 7/INFO] []: [] Pipelon777: a memoria XD
+[20:40:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &m
+[20:40:45] [Async Chat Thread - 7/INFO] []: [] GOD: as
+[20:40:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &s
+[20:40:54] [Async Chat Thread - 7/INFO] []: [] GOD: sf
+[20:41:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &ñ
+[20:41:03] [Async Chat Thread - 7/INFO] []: [] GOD: s
+[20:41:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &m
+[20:41:15] [Async Chat Thread - 7/INFO] []: [] GOD: kjas
+[20:41:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &b
+[20:41:19] [Async Chat Thread - 7/INFO] []: [] GOD: sagf
+[20:41:21] [Async Chat Thread - 7/INFO] []: [] GOD: oe
+[20:41:23] [Async Chat Thread - 7/INFO] []: [] GOD: ud le deja usar
+[20:41:26] [Async Chat Thread - 7/INFO] []: [] GOD: el /pr gui
+[20:41:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr gui
+[20:41:29] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:41:30] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:41:30] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:41:30] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:41:31] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:41:31] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:41:32] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:41:32] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:41:33] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:126) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &j
+[20:42:09] [Async Chat Thread - 7/INFO] []: [] GOD: a
+[20:42:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &a
+[20:42:14] [Async Chat Thread - 7/INFO] []: [] GOD: s
+[20:42:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &b
+[20:42:17] [Async Chat Thread - 7/INFO] []: [] GOD: fs
+[20:42:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /pr gui
+[20:42:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &c
+[20:42:20] [Async Chat Thread - 7/INFO] []: [] GOD: g
+[20:42:21] [Async Chat Thread - 7/INFO] []: [] Pipelon777: si me deja
+[20:42:25] [Async Chat Thread - 7/INFO] []: [] GOD: muestre
+[20:42:27] [Async Chat Thread - 7/INFO] []: [] GOD: que opciones hay
+[20:42:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /op GOD
+[20:42:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Opped GOD]
+[20:42:29] [Async Chat Thread - 7/INFO] []: [] GOD: de color
+[20:42:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr gui
+[20:42:39] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /pr gui
+[20:42:40] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:40] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:40] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:47] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:135) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:47] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:135) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:48] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:135) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:48] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:135) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:49] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:126) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:51] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:152) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:51] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:52] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:152) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:52] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:152) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:42:53] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:126) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:43:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &p
+[20:43:02] [Async Chat Thread - 7/INFO] []: [] GOD: asg
+[20:43:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member mg
+[20:43:23] [Async Chat Thread - 7/INFO] []: [] GOD: mgag
+[20:43:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member %mg
+[20:43:28] [Async Chat Thread - 7/WARN] []: java.util.UnknownFormatConversionException: Conversion = 'm'
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at org.bukkit.event.player.AsyncPlayerChatEvent.setFormat(AsyncPlayerChatEvent.java:103)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at nl.svenar.PowerRanks.Events.OnChat.onPlayerChat(OnChat.java:150)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at sun.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at net.minecraft.network.NetHandlerPlayServer.chat(NetHandlerPlayServer.java:1535)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1470)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at net.minecraft.network.play.client.CPacketChatMessage.lambda$processPacket$0(CPacketChatMessage.java:42)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[20:43:28] [Async Chat Thread - 7/WARN] []: 	at java.lang.Thread.run(Thread.java:750)
+[20:43:28] [Async Chat Thread - 7/INFO] []: GOD: s
+[20:43:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &mg
+[20:43:33] [Async Chat Thread - 7/INFO] []: [] GOD: gsgas
+[20:43:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /pr setchatcolor Owner blue
+[20:43:38] [Async Chat Thread - 7/INFO] []: [] Pipelon777: ga
+[20:43:41] [Async Chat Thread - 7/INFO] []: [] Pipelon777: gasdasfdf
+[20:43:43] [Async Chat Thread - 7/INFO] []: [] GOD: ggey
+[20:43:43] [Async Chat Thread - 7/INFO] []: [] Pipelon777: gXD
+[20:43:45] [Async Chat Thread - 7/INFO] []: [] GOD: gno esto no
+[20:43:47] [Async Chat Thread - 7/INFO] []: [] GOD: gcomo es
+[20:43:51] [Async Chat Thread - 7/INFO] []: [] GOD: gpara chat color
+[20:44:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr gui
+[20:44:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /pr setchatcolor Owner green
+[20:44:02] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:126) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:02] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:03] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:03] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:03] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:03] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:123) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /pr setchatcolor Owner green
+[20:44:09] [Async Chat Thread - 7/INFO] []: [] Pipelon777: ga
+[20:44:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor
+[20:44:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /pr gui
+[20:44:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:44:18] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:126) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:19] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:126) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:20] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:126) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:20] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:126) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:21] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:126) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:22] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:132) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /pr promote Pipelon777
+[20:44:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /pr promote Pipelon777
+[20:44:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &k
+[20:44:50] [Async Chat Thread - 7/INFO] []: [] GOD: gg
+[20:44:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /pr gui
+[20:44:53] [Async Chat Thread - 7/INFO] []: [] GOD: eso era
+[20:44:54] [Async Chat Thread - 7/INFO] []: [] GOD: jajjajaja
+[20:44:55] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:152) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:56] [Async Chat Thread - 7/INFO] []: [] GOD: siuuuu
+[20:44:56] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:152) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:44:57] [Server thread/ERROR] [Mohist]: Could not pass event InventoryClickEvent to PowerRanks v1.9.6
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:309) ~[JavaPluginLoader$1.class:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66) ~[RegisteredListener.class:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) ~[SimplePluginManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:2148) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:16) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:840) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at nl.svenar.PowerRanks.gui.GUIPage.setupGUI(GUIPage.java:210) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUIPage.<init>(GUIPage.java:81) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.openGUI(GUI.java:27) ~[?:?]
+	at nl.svenar.PowerRanks.gui.GUI.clickedItem(GUI.java:152) ~[?:?]
+	at nl.svenar.PowerRanks.Events.OnInventory.onInventoryClickEvent(OnInventory.java:33) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:307) ~[JavaPluginLoader$1.class:?]
+	... 14 more
+[20:45:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /pr gui
+[20:45:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /tell Pipelon777 voy a hacer que el chat sea asi para que no se digan el codigo solo los que esten en chat de voz cerca que voy a configurar
+[20:45:31] [Async Chat Thread - 7/INFO] []: [] GOD: xd
+[20:45:34] [Async Chat Thread - 7/INFO] []: [] Pipelon777: ok
+[20:45:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /msg GOD ok
+[20:45:44] [Async Chat Thread - 7/INFO] []: [] GOD: xd
+[20:45:54] [Async Chat Thread - 7/INFO] []: [] Pipelon777: habitacion lista voy a hacer el video
+[20:46:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member pipe gey
+[20:46:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /msg GOD habitacion lista voy a hacer el video
+[20:46:07] [Async Chat Thread - 7/INFO] []: [] GOD: oiga
+[20:46:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member pipegey
+[20:46:15] [Async Chat Thread - 7/INFO] []: [] GOD: pipegeyok
+[20:46:18] [Async Chat Thread - 7/INFO] []: [] GOD: pipegeyxd
+[20:46:20] [Async Chat Thread - 7/INFO] []: [] GOD: pipegeyoiga
+[20:46:21] [Async Chat Thread - 7/INFO] []: [] Pipelon777: pipegeya
+[20:46:23] [Async Chat Thread - 7/INFO] []: [] GOD: pipegeytiene las habitaciones
+[20:46:25] [Async Chat Thread - 7/INFO] []: [] Pipelon777: pipegeyque mierda
+[20:46:28] [Async Chat Thread - 7/INFO] []: [] GOD: pipegeyjaja
+[20:46:33] [Async Chat Thread - 7/INFO] []: [] GOD: pipegeyhizo las habitaciones?
+[20:46:36] [Async Chat Thread - 7/INFO] []: [] Pipelon777: pipegeysi
+[20:46:43] [Async Chat Thread - 7/INFO] []: [] GOD: pipegeysi es gey?
+[20:46:44] [Async Chat Thread - 7/INFO] []: [] GOD: pipegeyxd
+[20:47:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &cMMGVOS:&f
+[20:47:07] [Async Chat Thread - 7/INFO] []: [] GOD: ok
+[20:47:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &cmmgvos:&f
+[20:47:21] [Async Chat Thread - 7/INFO] []: [] GOD: oiga
+[20:47:23] [Async Chat Thread - 7/INFO] []: [] GOD: que falta
+[20:47:25] [Async Chat Thread - 7/INFO] []: [] GOD: a kla verga
+[20:47:29] [Async Chat Thread - 7/INFO] []: [] GOD: no se ni como hice eso
+[20:47:30] [Async Chat Thread - 7/INFO] []: [] GOD: ajjaja
+[20:47:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /pr setchatcolor Member &c:&f
+[20:47:58] [Async Chat Thread - 7/INFO] []: [] GOD: oas
+[20:47:59] [Async Chat Thread - 7/INFO] []: [] GOD: god
+[20:48:04] [Async Chat Thread - 7/INFO] []: [] GOD: bandera de peru:
+[20:48:26] [Async Chat Thread - 7/INFO] []: [] GOD: mmgvo
