@@ -29883,3 +29883,13 @@
 [20:18:07] [Async Chat Thread - 6/INFO] []: [] Pipelon777: 956373
 [20:18:21] [Async Chat Thread - 6/INFO] []: [] Pipelon777: 657843
 [20:18:34] [Async Chat Thread - 6/INFO] []: [] Pipelon777: 418629
+[20:19:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:19:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:21:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:23:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:23:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /time set 0
+[20:23:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set the time to 0]
+[20:24:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
