@@ -13,14 +13,6 @@
 config-version: 11
 settings:
   bungeecord: false
-  netty-threads: 4
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
   late-bind: false
   filter-creative-items: true
   int-cache-limit: 1024
@@ -30,6 +22,14 @@ settings:
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
+  netty-threads: 4
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
   save-user-cache-on-stop-only: false
   sample-count: 12
   player-shuffle: 0
@@ -103,11 +103,11 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
-    view-distance: 10
-    wither-spawn-sound-radius: 0
-    zombie-aggressive-towards-villager: true
     hanging-tick-frequency: 100
     enable-zombie-pigmen-portal-spawns: true
+    zombie-aggressive-towards-villager: true
+    wither-spawn-sound-radius: 0
+    view-distance: 10
     nerf-spawner-mobs: false
     merge-radius:
       exp: 3.0
