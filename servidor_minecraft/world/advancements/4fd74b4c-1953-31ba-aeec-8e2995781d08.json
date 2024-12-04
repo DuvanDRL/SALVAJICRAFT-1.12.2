@@ -49,6 +49,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-04 03:56:26 +0000",
       "cold_desert": "2024-12-02 17:37:28 +0000",
       "boreal_forest": "2024-12-02 17:37:03 +0000",
       "snowy_forest": "2024-12-02 17:37:39 +0000",
