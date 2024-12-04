@@ -29983,3 +29983,416 @@
 [03:59:30] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
 [03:59:30] [Server thread/INFO] []: [-] lJuqncl
 [03:59:30] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[04:02:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:02:46] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Pou20 is 38309568-8b85-337d-85c7-646e73284045
+[04:02:46] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:02:46] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:02:46] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:02:46] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:02:46] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[04:02:46] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[04:02:46] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[04:02:46] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[04:02:46] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:02:46] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[04:02:46] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[04:02:47] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:02:47] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[04:02:47] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:02:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:02:47] [Server thread/INFO] []: [+] Pou20
+[04:02:47] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:02:48] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['Pou20'/6376, uuid='38309568-8b85-337d-85c7-646e73284045', l='world', x=-147.49, y=77.84, z=-690.82, cx=-10, cd=-44, tl=27447, v=true, d=false](Pou20 at -147.48745057697474,77.83999997377396,-690.8168672884068))
+[04:02:48] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Pou20: {disabled=false, disconnected=true, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[04:02:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Pou20[/127.23.235.141:60163] logged in with entity id 6376 at ([world]-147.48745057697474, 77.83999997377396, -690.8168672884068)
+[04:02:50] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Received secret request of Pou20 (18)
+[04:02:50] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Sending initial states to Pou20
+[04:02:50] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Pou20
+[04:02:50] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Pou20
+[04:02:50] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Sent secret to Pou20
+[04:02:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 38309568-8b85-337d-85c7-646e73284045
+[04:02:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 38309568-8b85-337d-85c7-646e73284045
+[04:02:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Pou20 to connected: {disabled=false, disconnected=false, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[04:02:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Pou20 (38309568-8b85-337d-85c7-646e73284045) successfully connected to voice chat
+[04:02:53] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of Pou20: {disabled=true, disconnected=false, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[04:04:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp 383 80 -873
+[04:04:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to 383.5, 80.0, -872.5]
+[04:04:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp Pou20
+[04:04:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to Pou20]
+[04:05:14] [Async Chat Thread - 6/INFO] []: [] Pipelon777: dele a la v
+[04:05:24] [Async Chat Thread - 6/INFO] []: [] Pipelon777: configure su chat de voz
+[04:05:41] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Panno_ is 52e8f506-e06c-30a3-abe7-0d8677ae20e3
+[04:05:41] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:05:41] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:05:41] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:05:41] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:05:41] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[04:05:41] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[04:05:41] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[04:05:41] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[04:05:42] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:05:42] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[04:05:42] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[04:05:43] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:05:43] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[04:05:43] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:05:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:05:43] [Server thread/INFO] []: [+] Panno_
+[04:05:43] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['Panno_'/9207, uuid='52e8f506-e06c-30a3-abe7-0d8677ae20e3', l='world', x=-147.59, y=78.00, z=-688.02, cx=-10, cd=-44, tl=49934, v=true, d=false](Panno_ at -147.5936499839193,78.0,-688.0170275216848))
+[04:05:43] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Panno_: {disabled=false, disconnected=true, uuid=52e8f506-e06c-30a3-abe7-0d8677ae20e3, name=Panno_, group=null}
+[04:05:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Panno_[/127.176.137.135:53657] logged in with entity id 9207 at ([world]-147.5936499839193, 78.0, -688.0170275216848)
+[04:05:43] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:05:47] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of Panno_ (18)
+[04:05:47] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Sending initial states to Panno_
+[04:05:47] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Panno_
+[04:05:47] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Panno_
+[04:05:47] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to Panno_
+[04:05:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 52e8f506-e06c-30a3-abe7-0d8677ae20e3
+[04:05:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 52e8f506-e06c-30a3-abe7-0d8677ae20e3
+[04:05:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Panno_ to connected: {disabled=false, disconnected=false, uuid=52e8f506-e06c-30a3-abe7-0d8677ae20e3, name=Panno_, group=null}
+[04:05:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Panno_ (52e8f506-e06c-30a3-abe7-0d8677ae20e3) successfully connected to voice chat
+[04:05:52] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of Panno_: {disabled=false, disconnected=false, uuid=52e8f506-e06c-30a3-abe7-0d8677ae20e3, name=Panno_, group=null}
+[04:07:12] [Async Chat Thread - 7/INFO] []: [] Pipelon777: pano ya configuro su chat de voz?
+[04:07:16] [Async Chat Thread - 7/INFO] []: [] Panno_: sim
+[04:07:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:07:21] [Async Chat Thread - 7/INFO] []: [] Panno_: pero no tengo audifonos
+[04:07:23] [Async Chat Thread - 7/INFO] []: [] Pipelon777: ayude a maiky XD
+[04:07:39] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of Pou20: {disabled=false, disconnected=false, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[04:07:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp 10000 80 10000
+[04:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to 10000.5, 80.0, 10000.5]
+[04:07:44] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 2.02 and blood value 15 for entity zawa:coatimundi
+[04:07:44] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallFire' in StructureBoundingBox{x0=9928, y0=23, z0=9996, x1=9938, y1=30, z1=10006} (0)
+[04:07:49] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneBoulder' in StructureBoundingBox{x0=10045, y0=58, z0=10104, x1=10054, y1=72, z1=10113} (0)
+[04:07:51] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 15.64 and blood value 0 for entity iceandfire:myrmex_queen
+[04:07:51] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.93 and blood value 9 for entity iceandfire:myrmex_worker
+[04:07:51] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.93 and blood value 9 for entity iceandfire:myrmex_soldier
+[04:07:51] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 3.3 and blood value 0 for entity iceandfire:myrmex_sentinel
+[04:07:52] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 53.72 and blood value 15 for entity iceandfire:myrmex_royal
+[04:07:53] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 250.42 and blood value 0 for entity iceandfire:firedragon
+[04:07:54] [Server thread/TRACE] [reccomplex]: Generated structure 'DinosaurSkull' in StructureBoundingBox{x0=9827, y0=51, z0=9922, x1=9838, y1=60, z1=9941} (0)
+[04:08:19] [Server thread/TRACE] [reccomplex]: Generated structure 'SmallClockworkSite' in StructureBoundingBox{x0=9868, y0=60, z0=9797, x1=9890, y1=74, z1=9816} (0)
+[04:08:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /#gen BigPyramid
+[04:09:15] [Server thread/ERROR] [reccomplex]: Error preparing structure: BigPyramid, Cause: Maze generation timed out: PyramidMaze
+[04:09:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /#gen BigPyramid
+[04:09:38] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallFire' in StructureBoundingBox{x0=10140, y0=10, z0=9889, x1=10150, y1=17, z1=9899} (0)
+[04:09:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /#confirm
+[04:09:42] [Server thread/TRACE] [reccomplex]: Generated structure 'LodgepolePine' in StructureBoundingBox{x0=41, y0=67, z0=7, x1=51, y1=89, z1=17} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeScriptureTurn' in StructureBoundingBox{x0=9982, y0=88, z0=9964, x1=9987, y1=91, z1=9969} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairTurn' in StructureBoundingBox{x0=9973, y0=96, z0=9973, x1=9978, y1=103, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=89, z0=9961, x1=9986, y1=90, z1=9961} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=88, z0=9961, x1=9987, y1=91, z1=9963} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStorage' in StructureBoundingBox{x0=9976, y0=92, z0=9988, x1=9981, y1=95, z1=9993} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairTurn' in StructureBoundingBox{x0=9976, y0=88, z0=9967, x1=9981, y1=95, z1=9972} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9983, y0=89, z0=9961, x1=9983, y1=90, z1=9961} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9983, y0=89, z0=9963, x1=9983, y1=90, z1=9963} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9982, y0=89, z0=9962, x1=9982, y1=90, z1=9962} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9982, y0=88, z0=9961, x1=9984, y1=91, z1=9963} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairCorridor' in StructureBoundingBox{x0=9979, y0=96, z0=9976, x1=9984, y1=103, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9974, y0=93, z0=9969, x1=9974, y1=94, z1=9969} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9973, y0=92, z0=9967, x1=9975, y1=95, z1=9969} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=89, z0=9966, x1=9971, y1=90, z1=9966} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=89, z0=9964, x1=9971, y1=90, z1=9964} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9970, y0=88, z0=9964, x1=9972, y1=91, z1=9966} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9990, y0=89, z0=9962, x1=9990, y1=90, z1=9962} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9989, y0=89, z0=9961, x1=9989, y1=90, z1=9961} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9988, y0=88, z0=9961, x1=9990, y1=91, z1=9963} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairCorridor' in StructureBoundingBox{x0=9982, y0=88, z0=9970, x1=9987, y1=95, z1=9972} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStorage' in StructureBoundingBox{x0=9964, y0=88, z0=9964, x1=9969, y1=91, z1=9969} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStorage' in StructureBoundingBox{x0=9970, y0=92, z0=9988, x1=9975, y1=95, z1=9993} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeSpiderTurn' in StructureBoundingBox{x0=9964, y0=88, z0=9970, x1=9969, y1=91, z1=9975} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeSpiderTurn' in StructureBoundingBox{x0=9970, y0=88, z0=9967, x1=9975, y1=91, z1=9972} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9970, y0=88, z0=9973, x1=9972, y1=91, z1=9975} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairCorridor' in StructureBoundingBox{x0=9967, y0=92, z0=9973, x1=9972, y1=99, z1=9975} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9987, y0=97, z0=9977, x1=9987, y1=98, z1=9977} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=96, z0=9976, x1=9987, y1=99, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeSpiderTurn' in StructureBoundingBox{x0=9961, y0=92, z0=9973, x1=9966, y1=95, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9987, y0=97, z0=9980, x1=9987, y1=98, z1=9980} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=96, z0=9979, x1=9987, y1=99, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairTurn' in StructureBoundingBox{x0=9988, y0=88, z0=9970, x1=9993, y1=95, z1=9975} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairTurn' in StructureBoundingBox{x0=9982, y0=92, z0=9982, x1=9987, y1=99, z1=9987} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9975, y0=89, z0=9974, x1=9975, y1=90, z1=9974} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9973, y0=88, z0=9973, x1=9975, y1=91, z1=9975} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairCorridor' in StructureBoundingBox{x0=9970, y0=92, z0=9982, x1=9972, y1=99, z1=9987} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9987, y0=97, z0=9974, x1=9987, y1=98, z1=9974} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9985, y0=97, z0=9974, x1=9985, y1=98, z1=9974} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=96, z0=9973, x1=9987, y1=99, z1=9975} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeSpiderTurn' in StructureBoundingBox{x0=9961, y0=92, z0=9979, x1=9966, y1=95, z1=9984} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairCorridor' in StructureBoundingBox{x0=9973, y0=88, z0=9976, x1=9975, y1=95, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9974, x1=9996, y1=90, z1=9974} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9973, x1=9996, y1=91, z1=9975} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9975, y0=93, z0=9965, x1=9975, y1=94, z1=9965} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9974, y0=93, z0=9964, x1=9974, y1=94, z1=9964} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9973, y0=92, z0=9964, x1=9975, y1=95, z1=9966} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9971, x1=9996, y1=90, z1=9971} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9994, y0=89, z0=9971, x1=9994, y1=90, z1=9971} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9970, x1=9996, y1=91, z1=9972} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9983, y0=97, z0=9979, x1=9983, y1=98, z1=9979} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9983, y0=97, z0=9981, x1=9983, y1=98, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9982, y0=97, z0=9980, x1=9982, y1=98, z1=9980} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9982, y0=96, z0=9979, x1=9984, y1=99, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9973, y0=93, z0=9983, x1=9973, y1=94, z1=9983} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9975, y0=93, z0=9983, x1=9975, y1=94, z1=9983} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9973, y0=92, z0=9982, x1=9975, y1=95, z1=9984} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeSpiderTurn' in StructureBoundingBox{x0=9988, y0=92, z0=9979, x1=9993, y1=95, z1=9984} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9975, y0=93, z0=9986, x1=9975, y1=94, z1=9986} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9973, y0=93, z0=9986, x1=9973, y1=94, z1=9986} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9973, y0=92, z0=9985, x1=9975, y1=95, z1=9987} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9970, y0=97, z0=9980, x1=9970, y1=98, z1=9980} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9972, y0=97, z0=9980, x1=9972, y1=98, z1=9980} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9970, y0=96, z0=9979, x1=9972, y1=99, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9968, y0=93, z0=9976, x1=9968, y1=94, z1=9976} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9967, y0=92, z0=9976, x1=9969, y1=95, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9969, y0=93, z0=9983, x1=9969, y1=94, z1=9983} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9967, y0=92, z0=9982, x1=9969, y1=95, z1=9984} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairCorridor' in StructureBoundingBox{x0=9967, y0=88, z0=9985, x1=9969, y1=95, z1=9990} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairCorridor' in StructureBoundingBox{x0=9979, y0=88, z0=9982, x1=9981, y1=95, z1=9987} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9988, y0=89, z0=9968, x1=9988, y1=90, z1=9968} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9988, y0=88, z0=9967, x1=9990, y1=91, z1=9969} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9968, x1=9996, y1=90, z1=9968} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9995, y0=89, z0=9967, x1=9995, y1=90, z1=9967} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9967, x1=9996, y1=91, z1=9969} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9969, y0=93, z0=9980, x1=9969, y1=94, z1=9980} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9967, y0=92, z0=9979, x1=9969, y1=95, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9992, y0=89, z0=9969, x1=9992, y1=90, z1=9969} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9992, y0=89, z0=9967, x1=9992, y1=90, z1=9967} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9991, y0=88, z0=9967, x1=9993, y1=91, z1=9969} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9989, y0=93, z0=9976, x1=9989, y1=94, z1=9976} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9988, y0=93, z0=9977, x1=9988, y1=94, z1=9977} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9988, y0=92, z0=9976, x1=9990, y1=95, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=93, z0=9978, x1=9971, y1=94, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=93, z0=9976, x1=9971, y1=94, z1=9976} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9972, y0=93, z0=9977, x1=9972, y1=94, z1=9977} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9970, y0=92, z0=9976, x1=9972, y1=95, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairTurn' in StructureBoundingBox{x0=9979, y0=88, z0=9976, x1=9984, y1=95, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9967, y0=89, z0=9992, x1=9967, y1=90, z1=9992} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9968, y0=89, z0=9993, x1=9968, y1=90, z1=9993} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9967, y0=88, z0=9991, x1=9969, y1=91, z1=9993} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=89, z0=9976, x1=9986, y1=90, z1=9976} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=88, z0=9976, x1=9987, y1=91, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeZombieTable' in StructureBoundingBox{x0=9967, y0=92, z0=9964, x1=9972, y1=95, z1=9969} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=93, z0=9979, x1=9986, y1=94, z1=9979} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=93, z0=9981, x1=9986, y1=94, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9985, y0=93, z0=9980, x1=9985, y1=94, z1=9980} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=92, z0=9979, x1=9987, y1=95, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9985, y0=89, z0=9980, x1=9985, y1=90, z1=9980} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9987, y0=89, z0=9980, x1=9987, y1=90, z1=9980} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=89, z0=9981, x1=9986, y1=90, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=88, z0=9979, x1=9987, y1=91, z1=9981} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9972, y0=97, z0=9977, x1=9972, y1=98, z1=9977} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=97, z0=9976, x1=9971, y1=98, z1=9976} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9970, y0=96, z0=9976, x1=9972, y1=99, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9968, y0=97, z0=9976, x1=9968, y1=98, z1=9976} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9967, y0=97, z0=9977, x1=9967, y1=98, z1=9977} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9967, y0=96, z0=9976, x1=9969, y1=99, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9989, y0=89, z0=9978, x1=9989, y1=90, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9989, y0=89, z0=9976, x1=9989, y1=90, z1=9976} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9988, y0=88, z0=9976, x1=9990, y1=91, z1=9978} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9988, y0=89, z0=9965, x1=9988, y1=90, z1=9965} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9990, y0=89, z0=9965, x1=9990, y1=90, z1=9965} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9988, y0=88, z0=9964, x1=9990, y1=91, z1=9966} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeCorridorCollapse' in StructureBoundingBox{x0=9982, y0=88, z0=9988, x1=9984, y1=95, z1=9993} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9983, y0=93, z0=9973, x1=9983, y1=94, z1=9973} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9982, y0=93, z0=9974, x1=9982, y1=94, z1=9974} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9982, y0=92, z0=9973, x1=9984, y1=95, z1=9975} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9987, y0=97, z0=9971, x1=9987, y1=98, z1=9971} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=97, z0=9970, x1=9986, y1=98, z1=9970} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=96, z0=9970, x1=9987, y1=99, z1=9972} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeSpiderTurn' in StructureBoundingBox{x0=9970, y0=88, z0=9991, x1=9975, y1=91, z1=9996} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeSpiderTurn' in StructureBoundingBox{x0=9979, y0=88, z0=9994, x1=9984, y1=91, z1=9999} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeCorridorCollapse' in StructureBoundingBox{x0=9964, y0=88, z0=9994, x1=9969, y1=95, z1=9996} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeScriptureTurn' in StructureBoundingBox{x0=9958, y0=88, z0=9991, x1=9963, y1=91, z1=9996} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9962, y0=93, z0=9994, x1=9962, y1=94, z1=9994} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9962, y0=93, z0=9996, x1=9962, y1=94, z1=9996} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9961, y0=93, z0=9995, x1=9961, y1=94, z1=9995} (0)
+[04:09:43] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9961, y0=92, z0=9994, x1=9963, y1=95, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9987, y0=93, z0=9974, x1=9987, y1=94, z1=9974} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=93, z0=9973, x1=9986, y1=94, z1=9973} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=92, z0=9973, x1=9987, y1=95, z1=9975} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeSpiderTurn' in StructureBoundingBox{x0=9961, y0=88, z0=9985, x1=9966, y1=91, z1=9990} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9970, y0=89, z0=9977, x1=9970, y1=90, z1=9977} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9972, y0=89, z0=9977, x1=9972, y1=90, z1=9977} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=89, z0=9978, x1=9971, y1=90, z1=9978} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9970, y0=88, z0=9976, x1=9972, y1=91, z1=9978} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9981, y0=89, z0=9992, x1=9981, y1=90, z1=9992} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9979, y0=89, z0=9992, x1=9979, y1=90, z1=9992} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9979, y0=88, z0=9991, x1=9981, y1=91, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9981, y0=89, z0=9989, x1=9981, y1=90, z1=9989} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9980, y0=89, z0=9988, x1=9980, y1=90, z1=9988} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9979, y0=88, z0=9988, x1=9981, y1=91, z1=9990} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9993, y0=93, z0=9977, x1=9993, y1=94, z1=9977} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9992, y0=93, z0=9976, x1=9992, y1=94, z1=9976} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9991, y0=92, z0=9976, x1=9993, y1=95, z1=9978} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9983, y0=97, z0=9972, x1=9983, y1=98, z1=9972} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9983, y0=97, z0=9970, x1=9983, y1=98, z1=9970} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9982, y0=96, z0=9970, x1=9984, y1=99, z1=9972} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9977, y0=89, z0=9994, x1=9977, y1=90, z1=9994} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9976, y0=89, z0=9995, x1=9976, y1=90, z1=9995} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9976, y0=88, z0=9994, x1=9978, y1=91, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9980, y0=97, z0=9970, x1=9980, y1=98, z1=9970} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9980, y0=97, z0=9972, x1=9980, y1=98, z1=9972} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9979, y0=96, z0=9970, x1=9981, y1=99, z1=9972} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9976, y0=89, z0=9998, x1=9976, y1=90, z1=9998} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9977, y0=89, z0=9999, x1=9977, y1=90, z1=9999} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9976, y0=88, z0=9997, x1=9978, y1=91, z1=9999} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9969, y0=97, z0=9980, x1=9969, y1=98, z1=9980} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9967, y0=97, z0=9980, x1=9967, y1=98, z1=9980} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9967, y0=96, z0=9979, x1=9969, y1=99, z1=9981} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9976, y0=88, z0=9988, x1=9978, y1=91, z1=9990} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9976, y0=89, z0=9992, x1=9976, y1=90, z1=9992} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9978, y0=89, z0=9992, x1=9978, y1=90, z1=9992} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9977, y0=89, z0=9993, x1=9977, y1=90, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9976, y0=88, z0=9991, x1=9978, y1=91, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStorage' in StructureBoundingBox{x0=9982, y0=88, z0=9982, x1=9987, y1=91, z1=9987} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9974, y0=89, z0=9999, x1=9974, y1=90, z1=9999} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9975, y0=89, z0=9998, x1=9975, y1=90, z1=9998} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9973, y0=88, z0=9997, x1=9975, y1=91, z1=9999} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9985, y0=93, z0=9977, x1=9985, y1=94, z1=9977} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9987, y0=93, z0=9977, x1=9987, y1=94, z1=9977} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=93, z0=9978, x1=9986, y1=94, z1=9978} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=92, z0=9976, x1=9987, y1=95, z1=9978} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9970, y0=89, z0=9998, x1=9970, y1=90, z1=9998} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=89, z0=9999, x1=9971, y1=90, z1=9999} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9970, y0=88, z0=9997, x1=9972, y1=91, z1=9999} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9967, y0=97, z0=9983, x1=9967, y1=98, z1=9983} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9969, y0=97, z0=9983, x1=9969, y1=98, z1=9983} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9968, y0=97, z0=9984, x1=9968, y1=98, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9967, y0=96, z0=9982, x1=9969, y1=99, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9983, y0=93, z0=9996, x1=9983, y1=94, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9984, y0=93, z0=9995, x1=9984, y1=94, z1=9995} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9982, y0=92, z0=9994, x1=9984, y1=95, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9964, y0=89, z0=9992, x1=9964, y1=90, z1=9992} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9966, y0=89, z0=9992, x1=9966, y1=90, z1=9992} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9965, y0=89, z0=9993, x1=9965, y1=90, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9964, y0=88, z0=9991, x1=9966, y1=91, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9977, x1=9996, y1=90, z1=9977} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9994, y0=89, z0=9977, x1=9994, y1=90, z1=9977} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9976, x1=9996, y1=91, z1=9978} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9978, y0=89, z0=9986, x1=9978, y1=90, z1=9986} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9976, y0=89, z0=9986, x1=9976, y1=90, z1=9986} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9977, y0=89, z0=9985, x1=9977, y1=90, z1=9985} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9976, y0=88, z0=9985, x1=9978, y1=91, z1=9987} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeScriptureTurn' in StructureBoundingBox{x0=9970, y0=88, z0=9985, x1=9975, y1=91, z1=9990} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9958, y0=89, z0=9989, x1=9958, y1=90, z1=9989} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9959, y0=89, z0=9990, x1=9959, y1=90, z1=9990} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9958, y0=88, z0=9988, x1=9960, y1=91, z1=9990} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9977, y0=97, z0=9970, x1=9977, y1=98, z1=9970} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9977, y0=97, z0=9972, x1=9977, y1=98, z1=9972} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9976, y0=96, z0=9970, x1=9978, y1=99, z1=9972} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9975, y0=89, z0=9983, x1=9975, y1=90, z1=9983} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9974, y0=89, z0=9982, x1=9974, y1=90, z1=9982} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9973, y0=88, z0=9982, x1=9975, y1=91, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairCorridor' in StructureBoundingBox{x0=9970, y0=92, z0=9970, x1=9975, y1=99, z1=9972} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9958, y0=89, z0=9986, x1=9958, y1=90, z1=9986} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9958, y0=88, z0=9985, x1=9960, y1=91, z1=9987} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9968, y0=93, z0=9970, x1=9968, y1=94, z1=9970} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9968, y0=93, z0=9972, x1=9968, y1=94, z1=9972} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9967, y0=92, z0=9970, x1=9969, y1=95, z1=9972} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9989, y0=89, z0=9984, x1=9989, y1=90, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9989, y0=89, z0=9982, x1=9989, y1=90, z1=9982} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9988, y0=88, z0=9982, x1=9990, y1=91, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeScriptureTurn' in StructureBoundingBox{x0=9961, y0=92, z0=9967, x1=9966, y1=95, z1=9972} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9994, y0=89, z0=9980, x1=9994, y1=90, z1=9980} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9980, x1=9996, y1=90, z1=9980} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9979, x1=9996, y1=91, z1=9981} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9987, y0=89, z0=9989, x1=9987, y1=90, z1=9989} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9985, y0=89, z0=9989, x1=9985, y1=90, z1=9989} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=88, z0=9988, x1=9987, y1=91, z1=9990} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9958, y0=89, z0=9983, x1=9958, y1=90, z1=9983} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9958, y0=88, z0=9982, x1=9960, y1=91, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9990, y0=89, z0=9986, x1=9990, y1=90, z1=9986} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9989, y0=89, z0=9985, x1=9989, y1=90, z1=9985} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9988, y0=88, z0=9985, x1=9990, y1=91, z1=9987} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStorage' in StructureBoundingBox{x0=9958, y0=88, z0=9976, x1=9963, y1=91, z1=9981} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeZombieTable' in StructureBoundingBox{x0=9964, y0=88, z0=9976, x1=9969, y1=91, z1=9981} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=89, z0=9984, x1=9971, y1=90, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=89, z0=9982, x1=9971, y1=90, z1=9982} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9970, y0=88, z0=9982, x1=9972, y1=91, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9993, y0=89, z0=9977, x1=9993, y1=90, z1=9977} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9992, y0=89, z0=9976, x1=9992, y1=90, z1=9976} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9991, y0=88, z0=9976, x1=9993, y1=91, z1=9978} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9985, y0=89, z0=9992, x1=9985, y1=90, z1=9992} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9987, y0=89, z0=9992, x1=9987, y1=90, z1=9992} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=89, z0=9993, x1=9986, y1=90, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=88, z0=9991, x1=9987, y1=91, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9993, y0=89, z0=9983, x1=9993, y1=90, z1=9983} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9991, y0=88, z0=9982, x1=9993, y1=91, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9991, y0=89, z0=9980, x1=9991, y1=90, z1=9980} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9993, y0=89, z0=9980, x1=9993, y1=90, z1=9980} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9991, y0=88, z0=9979, x1=9993, y1=91, z1=9981} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9983, x1=9996, y1=90, z1=9983} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9994, y0=89, z0=9983, x1=9994, y1=90, z1=9983} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9982, x1=9996, y1=91, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9962, y0=89, z0=9984, x1=9962, y1=90, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9961, y0=88, z0=9982, x1=9963, y1=91, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9966, y0=93, z0=9965, x1=9966, y1=94, z1=9965} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9964, y0=93, z0=9965, x1=9964, y1=94, z1=9965} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9965, y0=93, z0=9964, x1=9965, y1=94, z1=9964} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9964, y0=92, z0=9964, x1=9966, y1=95, z1=9966} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeCorridorCollapse' in StructureBoundingBox{x0=9988, y0=88, z0=9988, x1=9990, y1=95, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9968, y0=89, z0=9982, x1=9968, y1=90, z1=9982} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9968, y0=89, z0=9984, x1=9968, y1=90, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9967, y0=88, z0=9982, x1=9969, y1=91, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9986, x1=9996, y1=90, z1=9986} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9985, x1=9996, y1=91, z1=9987} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9989, x1=9996, y1=90, z1=9989} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9994, y0=89, z0=9989, x1=9994, y1=90, z1=9989} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9988, x1=9996, y1=91, z1=9990} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeSpiderTurn' in StructureBoundingBox{x0=9988, y0=88, z0=9994, x1=9993, y1=91, z1=9999} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairCorridor' in StructureBoundingBox{x0=9991, y0=88, z0=9988, x1=9993, y1=95, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9993, y0=93, z0=9986, x1=9993, y1=94, z1=9986} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9991, y0=93, z0=9986, x1=9991, y1=94, z1=9986} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9992, y0=93, z0=9985, x1=9992, y1=94, z1=9985} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9991, y0=92, z0=9985, x1=9993, y1=95, z1=9987} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9965, y0=89, z0=9982, x1=9965, y1=90, z1=9982} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9965, y0=89, z0=9984, x1=9965, y1=90, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9964, y0=88, z0=9982, x1=9966, y1=91, z1=9984} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9994, y0=89, z0=9992, x1=9994, y1=90, z1=9992} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9992, x1=9996, y1=90, z1=9992} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9995, y0=89, z0=9993, x1=9995, y1=90, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9991, x1=9996, y1=91, z1=9993} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9991, y0=89, z0=9986, x1=9991, y1=90, z1=9986} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9992, y0=89, z0=9987, x1=9992, y1=90, z1=9987} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9991, y0=88, z0=9985, x1=9993, y1=91, z1=9987} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9995, x1=9996, y1=90, z1=9995} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9995, y0=89, z0=9994, x1=9995, y1=90, z1=9994} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9994, x1=9996, y1=91, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9995, y0=89, z0=9999, x1=9995, y1=90, z1=9999} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9996, y0=89, z0=9998, x1=9996, y1=90, z1=9998} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9994, y0=88, z0=9997, x1=9996, y1=91, z1=9999} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9989, y0=93, z0=9996, x1=9989, y1=94, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9990, y0=93, z0=9995, x1=9990, y1=94, z1=9995} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9988, y0=92, z0=9994, x1=9990, y1=95, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9990, y0=93, z0=9986, x1=9990, y1=94, z1=9986} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9988, y0=93, z0=9986, x1=9988, y1=94, z1=9986} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9989, y0=93, z0=9985, x1=9989, y1=94, z1=9985} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9988, y0=92, z0=9985, x1=9990, y1=95, z1=9987} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=93, z0=9994, x1=9971, y1=94, z1=9994} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9971, y0=93, z0=9996, x1=9971, y1=94, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9970, y0=92, z0=9994, x1=9972, y1=95, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9974, y0=93, z0=9994, x1=9974, y1=94, z1=9994} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9974, y0=93, z0=9996, x1=9974, y1=94, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9973, y0=92, z0=9994, x1=9975, y1=95, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9977, y0=93, z0=9996, x1=9977, y1=94, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9977, y0=93, z0=9994, x1=9977, y1=94, z1=9994} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9976, y0=92, z0=9994, x1=9978, y1=95, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9980, y0=93, z0=9996, x1=9980, y1=94, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9980, y0=93, z0=9994, x1=9980, y1=94, z1=9994} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9979, y0=92, z0=9994, x1=9981, y1=95, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=93, z0=9994, x1=9986, y1=94, z1=9994} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9986, y0=93, z0=9996, x1=9986, y1=94, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=9985, y0=93, z0=9995, x1=9985, y1=94, z1=9995} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=9985, y0=92, z0=9994, x1=9987, y1=95, z1=9996} (0)
+[04:09:44] [Server thread/TRACE] [reccomplex]: Generated structure 'BigPyramid' in StructureBoundingBox{x0=9953, y0=79, z0=9943, x1=10001, y1=112, z1=10004} (0)
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[8, 1, 8], dest=[8, 2, 8]}=Wall, MazePassage{source=[8, 2, 7], dest=[8, 2, 8]}=Path]
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[7, 0, 5], dest=[8, 0, 5]}=Wall, MazePassage{source=[8, -1, 5], dest=[8, 0, 5]}=Wall, MazePassage{source=[8, 0, 6], dest=[8, 0, 5]}=Path, MazePassage{source=[8, 1, 5], dest=[8, 0, 5]}=Wall, MazePassage{source=[9, 0, 5], dest=[8, 0, 5]}=Wall]
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[7, 2, 5], dest=[7, 3, 5]}=Wall, MazePassage{source=[6, 3, 5], dest=[7, 3, 5]}=Path]
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[8, 1, 3], dest=[8, 0, 3]}=Wall, MazePassage{source=[8, -1, 3], dest=[8, 0, 3]}=Wall, MazePassage{source=[7, 0, 3], dest=[8, 0, 3]}=Wall, MazePassage{source=[8, 0, 2], dest=[8, 0, 3]}=Path, MazePassage{source=[9, 0, 3], dest=[8, 0, 3]}=Wall]
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[5, 2, 6], dest=[5, 3, 6]}=Wall, MazePassage{source=[5, 3, 5], dest=[5, 3, 6]}=Path, MazePassage{source=[4, 3, 6], dest=[5, 3, 6]}=Wall]
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[11, -1, 2], dest=[11, 0, 2]}=Wall, MazePassage{source=[11, 0, 3], dest=[11, 0, 2]}=Wall, MazePassage{source=[12, 0, 2], dest=[11, 0, 2]}=Path]
+[04:09:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
