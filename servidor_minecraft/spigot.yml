@@ -11,29 +11,16 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 11
-commands:
-  spam-exclusions:
-  - /skill
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  log: true
-  tab-complete: 0
-  silent-commandblock-console: false
 settings:
-  filter-creative-items: true
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  item-dirty-ticks: 20
+  bungeecord: false
+  save-user-cache-on-stop-only: false
+  sample-count: 12
+  player-shuffle: 0
+  user-cache-size: 1000
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: 4
-  late-bind: false
-  bungeecord: false
   attribute:
     maxHealth:
       max: 2048.0
@@ -41,23 +28,36 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  save-user-cache-on-stop-only: false
-  sample-count: 12
-  player-shuffle: 0
-  user-cache-size: 1000
-messages:
-  restart: Server is restarting
+  late-bind: false
+  filter-creative-items: true
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
 stats:
   disable-saving: false
   forced-stats: {}
+commands:
+  tab-complete: 0
+  silent-commandblock-console: false
+  log: true
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
+messages:
+  restart: Server is restarting
 world-settings:
   default:
     verbose: false
-    save-structure-info: true
+    mob-spawn-range: 4
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -102,18 +102,18 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
-    mob-spawn-range: 4
-    hanging-tick-frequency: 100
-    enable-zombie-pigmen-portal-spawns: true
-    wither-spawn-sound-radius: 0
-    view-distance: 10
+    save-structure-info: true
+    nerf-spawner-mobs: false
     zombie-aggressive-towards-villager: true
     merge-radius:
       exp: 3.0
       item: 2.5
-    nerf-spawner-mobs: false
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    view-distance: 10
+    hanging-tick-frequency: 100
     entity-tracking-range:
       players: 48
       animals: 48
