@@ -30396,3 +30396,79 @@
 [04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
 [04:09:48] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[11, -1, 2], dest=[11, 0, 2]}=Wall, MazePassage{source=[11, 0, 3], dest=[11, 0, 2]}=Wall, MazePassage{source=[12, 0, 2], dest=[11, 0, 2]}=Path]
 [04:09:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[04:11:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tasmanian Devil is 0.001
+[04:11:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[04:12:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[04:12:03] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.17 and blood value 0 for entity zawa:frigate
+[04:12:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[04:12:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Panno_ is bleeding...
+[04:12:20] [Server thread/INFO] [tombstone]: The death event of the player Panno_ was cancelled by another mod
+[04:12:20] [Server thread/INFO] [tombstone]: Panno_ has successfully been saved
+[04:12:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[04:12:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp Panno_
+[04:12:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to Panno_]
+[04:12:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp 10000 80 10000
+[04:12:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to 10000.5, 80.0, 10000.5]
+[04:12:41] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.77 and blood value 7 for entity zawa:pygmyhippopotamus
+[04:12:41] [Server thread/TRACE] [reccomplex]: Structure 'BigPyramid' canceled generation at [10141, 10164] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@5e4a117d
+[04:12:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Villager is 0.01
+[04:15:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pipelon777 has made the advancement [Monster Hunter]
+[04:15:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[04:15:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[04:15:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[04:16:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Panno_ has made the advancement [Stone Age]
+[04:17:02] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound3' in StructureBoundingBox{x0=9772, y0=82, z0=9933, x1=9783, y1=86, z1=9942} (0)
+[04:17:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp 10010 80 10010
+[04:17:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to 10010.5, 80.0, 10010.5]
+[04:17:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Villager is 0.01
+[04:18:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:18:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pipelon777 has made the advancement [Acquire Hardware]
+[04:19:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[04:19:33] [VoiceChatPacketProcessingThread/ERROR] [voicechat]: [voicechat] Voice chat server error
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469) ~[?:1.8.0_432]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1493) ~[?:1.8.0_432]
+	at org.bukkit.permissions.PermissibleBase.clearPermissions(PermissibleBase.java:174) ~[PermissibleBase.class:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.clearPermissions(PowerPermissibleBase.java:175) ~[?:?]
+	at org.bukkit.permissions.PermissibleBase.recalculatePermissions(PermissibleBase.java:155) ~[PermissibleBase.class:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.recalculatePermissions(PowerPermissibleBase.java:88) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.recalculatePermissions(CraftHumanEntity.java:176) ~[CraftHumanEntity.class:?]
+	at nl.svenar.PowerRanks.PowerRanks.getEffectivePlayerPermissions(PowerRanks.java:941) ~[?:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.hasPermission(PowerPermissibleBase.java:40) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.hasPermission(CraftHumanEntity.java:148) ~[CraftHumanEntity.class:?]
+	at com.mohistmc.forge.BukkitPermissionsHandler.hasPermission(BukkitPermissionsHandler.java:43) ~[BukkitPermissionsHandler.class:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:82) ~[PermissionAPI.class:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:93) ~[PermissionAPI.class:?]
+	at de.maxhenkel.voicechat.permission.ForgePermission.hasPermission(ForgePermission.java:31) ~[ForgePermission.class:1.12.2-2.5.26]
+	at de.maxhenkel.voicechat.voice.server.Server.onMicPacket(Server.java:332) ~[Server.class:1.12.2-2.5.26]
+	at de.maxhenkel.voicechat.voice.server.Server$ProcessThread.run(Server.java:309) [Server$ProcessThread.class:1.12.2-2.5.26]
+[04:19:33] [VoiceChatPacketProcessingThread/ERROR] [voicechat]: [voicechat] Voice chat server error
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469) ~[?:1.8.0_432]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1493) ~[?:1.8.0_432]
+	at org.bukkit.permissions.PermissibleBase.clearPermissions(PermissibleBase.java:174) ~[PermissibleBase.class:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.clearPermissions(PowerPermissibleBase.java:175) ~[?:?]
+	at org.bukkit.permissions.PermissibleBase.recalculatePermissions(PermissibleBase.java:155) ~[PermissibleBase.class:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.recalculatePermissions(PowerPermissibleBase.java:88) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.recalculatePermissions(CraftHumanEntity.java:176) ~[CraftHumanEntity.class:?]
+	at nl.svenar.PowerRanks.PowerRanks.getEffectivePlayerPermissions(PowerRanks.java:941) ~[?:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.hasPermission(PowerPermissibleBase.java:40) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.hasPermission(CraftHumanEntity.java:148) ~[CraftHumanEntity.class:?]
+	at com.mohistmc.forge.BukkitPermissionsHandler.hasPermission(BukkitPermissionsHandler.java:43) ~[BukkitPermissionsHandler.class:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:82) ~[PermissionAPI.class:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:93) ~[PermissionAPI.class:?]
+	at de.maxhenkel.voicechat.permission.ForgePermission.hasPermission(ForgePermission.java:31) ~[ForgePermission.class:1.12.2-2.5.26]
+	at de.maxhenkel.voicechat.voice.server.Server.onMicPacket(Server.java:332) ~[Server.class:1.12.2-2.5.26]
+	at de.maxhenkel.voicechat.voice.server.Server$ProcessThread.run(Server.java:309) [Server$ProcessThread.class:1.12.2-2.5.26]
+[04:20:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[04:20:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[04:20:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pou20 has made the advancement [Monster Hunter]
+[04:20:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[04:21:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[04:21:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[04:21:28] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound1' in StructureBoundingBox{x0=9796, y0=79, z0=9851, x1=9802, y1=83, z1=9857} (0)
+[04:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Panno_ has made the advancement [Knowledge of Death]
+[04:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Panno_ has made the advancement [Ashes 'n Bones]
+[04:21:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
