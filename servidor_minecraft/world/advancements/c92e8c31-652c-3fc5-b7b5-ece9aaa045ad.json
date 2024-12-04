@@ -875,7 +875,8 @@
       "zombie": "2024-12-03 21:42:10 +0000",
       "witch": "2024-12-03 22:26:16 +0000",
       "spider": "2024-12-03 21:38:53 +0000",
-      "creeper": "2024-12-03 22:19:38 +0000"
+      "creeper": "2024-12-03 22:19:38 +0000",
+      "enderman": "2024-12-04 00:51:44 +0000"
     },
     "done": false
   },
@@ -1596,6 +1597,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-03 22:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-04 00:49:11 +0000"
     },
     "done": true
   },
