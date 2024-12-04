@@ -29893,3 +29893,120 @@
 [20:24:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
 [20:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:29:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:30:26] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player GOD is 8bf789df-7997-3207-b714-0bec889cc390
+[20:30:26] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:30:26] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:30:26] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:30:26] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:30:26] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:71 mods->FMLHandshakeServerState$2:HELLO
+[20:30:26] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 71 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,mixinbooter@10.2,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,vintagefix@0.5.1,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,netherex@2.2.5,playerrevive@1.0
+[20:30:26] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[20:30:26] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[20:30:26] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:30:26] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[20:30:26] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[20:30:31] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:30:31] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[20:30:31] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:30:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:30:31] [Server thread/INFO] []: [+] GOD
+[20:30:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of vidas for player GOD to 10
+[20:30:31] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:30:31] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['GOD'/10473, uuid='8bf789df-7997-3207-b714-0bec889cc390', l='world', x=30150.58, y=79.00, z=30005.42, cx=1884, cd=1875, tl=124444, v=true, d=false](GOD at 30150.57920918376,79.0,30005.417594244653))
+[20:30:31] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of GOD: {disabled=false, disconnected=true, uuid=8bf789df-7997-3207-b714-0bec889cc390, name=GOD, group=null}
+[20:30:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GOD[/127.134.187.169:50631] logged in with entity id 10473 at ([world]30150.57920918376, 79.0, 30005.417594244653)
+[20:30:40] [Netty Epoll Server IO #3/INFO] [voicechat]: [voicechat] Received secret request of GOD (18)
+[20:30:40] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Sending initial states to GOD
+[20:30:40] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with GOD
+[20:30:40] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with GOD
+[20:30:40] [Netty Epoll Server IO #3/INFO] [voicechat]: [voicechat] Sent secret to GOD
+[20:30:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 8bf789df-7997-3207-b714-0bec889cc390
+[20:30:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 8bf789df-7997-3207-b714-0bec889cc390
+[20:30:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of GOD to connected: {disabled=false, disconnected=false, uuid=8bf789df-7997-3207-b714-0bec889cc390, name=GOD, group=null}
+[20:30:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player GOD (8bf789df-7997-3207-b714-0bec889cc390) successfully connected to voice chat
+[20:30:53] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Got state of GOD: {disabled=false, disconnected=false, uuid=8bf789df-7997-3207-b714-0bec889cc390, name=GOD, group=null}
+[20:31:03] [Async Chat Thread - 7/INFO] []: [] GOD: gey
+[20:31:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 8bf789df-7997-3207-b714-0bec889cc390 timed out
+[20:31:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player GOD
+[20:31:04] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to GOD
+[20:31:04] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with GOD
+[20:31:04] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with GOD
+[20:31:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to GOD
+[20:31:04] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 8bf789df-7997-3207-b714-0bec889cc390 to disconnected: {disabled=false, disconnected=true, uuid=8bf789df-7997-3207-b714-0bec889cc390, name=GOD, group=null}
+[20:31:05] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Got state of GOD: {disabled=false, disconnected=true, uuid=8bf789df-7997-3207-b714-0bec889cc390, name=GOD, group=null}
+[20:31:05] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 8bf789df-7997-3207-b714-0bec889cc390
+[20:31:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 8bf789df-7997-3207-b714-0bec889cc390
+[20:31:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of GOD to connected: {disabled=false, disconnected=false, uuid=8bf789df-7997-3207-b714-0bec889cc390, name=GOD, group=null}
+[20:31:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player GOD (8bf789df-7997-3207-b714-0bec889cc390) successfully connected to voice chat
+[20:31:06] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Got state of GOD: {disabled=false, disconnected=false, uuid=8bf789df-7997-3207-b714-0bec889cc390, name=GOD, group=null}
+[20:31:09] [Async Chat Thread - 7/INFO] []: [] GOD: que ha hehco a ver
+[20:31:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /scoreboard players reset GOD vidas
+[20:31:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Reset score vidas of player GOD]
+[20:31:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /scoreboard players reset Pipelon777 vidas
+[20:31:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Reset score vidas of player Pipelon777]
+[20:31:20] [Async Chat Thread - 7/INFO] []: [] Pipelon777: mire
+[20:31:32] [Async Chat Thread - 7/INFO] []: [] GOD: que lag
+[20:31:38] [Async Chat Thread - 7/INFO] []: [] GOD: pere
+[20:31:42] [Async Chat Thread - 7/INFO] []: [] GOD: no esucho naa
+[20:31:44] [Async Chat Thread - 7/INFO] []: [] GOD: re cortado
+[20:31:58] [Async Chat Thread - 7/INFO] []: [] Pipelon777: todos de aqui pal alfrente este codigo
+[20:32:10] [Async Chat Thread - 7/INFO] []: [] GOD: no
+[20:32:14] [Async Chat Thread - 7/INFO] []: [] Pipelon777: lo mismo con los demas
+[20:32:15] [Async Chat Thread - 7/INFO] []: [] GOD: disperso
+[20:32:18] [Async Chat Thread - 7/INFO] []: [] Pipelon777: a
+[20:32:21] [Async Chat Thread - 7/INFO] []: [] GOD: pa que sea mas dificil encontrar la puerta que es
+[20:32:24] [Async Chat Thread - 7/INFO] []: [] Pipelon777: a bueno
+[20:32:28] [Async Chat Thread - 7/INFO] []: [] GOD: hizo lo que le dije?
+[20:32:33] [Async Chat Thread - 7/INFO] []: [] GOD: de cambiar codigos
+[20:32:33] [Async Chat Thread - 7/INFO] []: [] Pipelon777: voy entonces poniendo los 418629
+[20:32:38] [Async Chat Thread - 7/INFO] []: [] Pipelon777: si cambie algunos
+[20:32:41] [Async Chat Thread - 7/INFO] []: [] GOD: no ponga mas
+[20:32:44] [Async Chat Thread - 7/INFO] []: [] GOD: ya hay bastantes
+[20:32:48] [Async Chat Thread - 7/INFO] []: [] Pipelon777: solo encontre 3
+[20:32:49] [Async Chat Thread - 7/INFO] []: [] GOD: a ver
+[20:32:57] [Async Chat Thread - 7/INFO] []: [] GOD: busque bien
+[20:33:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:33:49] [Async Chat Thread - 7/INFO] []: [] Pipelon777: voy a hacer un video pa explicar las reglas XD
+[20:33:56] [Async Chat Thread - 7/INFO] []: [] GOD: pnga 1 o dos entonces
+[20:33:58] [Async Chat Thread - 7/INFO] []: [] GOD: pero alto
+[20:34:08] [Async Chat Thread - 7/INFO] []: [] GOD: a 5 bloques
+[20:34:12] [Async Chat Thread - 7/INFO] []: [] Pipelon777: ya puse 2
+[20:34:16] [Async Chat Thread - 7/INFO] []: [] Pipelon777: a ok
+[20:34:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:34:20] [Async Chat Thread - 7/INFO] []: [] GOD: altos
+[20:34:25] [Async Chat Thread - 7/INFO] []: [] GOD: pa que de verdad tengan que buscar
+[20:34:41] [Async Chat Thread - 7/INFO] []: [] GOD: seguro empezar de las esquinas?
+[20:34:48] [Async Chat Thread - 7/INFO] []: [] Pipelon777: seee
+[20:34:51] [Async Chat Thread - 7/INFO] []: [] GOD: y si mejor
+[20:34:53] [Async Chat Thread - 7/INFO] []: [] GOD: del centro
+[20:34:58] [Async Chat Thread - 7/INFO] []: [] GOD: a buscar
+[20:35:02] [Async Chat Thread - 7/INFO] []: [] GOD: y devolverse
+[20:35:09] [Async Chat Thread - 7/INFO] []: [] Pipelon777: pero por donde salen?
+[20:35:09] [Async Chat Thread - 7/INFO] []: [] GOD: tipo ud entra al laberinto y ya no puede salir
+[20:35:15] [Async Chat Thread - 7/INFO] []: [] GOD: tienen que buscar llave y volver
+[20:35:16] [Async Chat Thread - 7/INFO] []: [] Pipelon777: o si
+[20:35:19] [Async Chat Thread - 7/INFO] []: [] GOD: buscar codigo
+[20:35:24] [Async Chat Thread - 7/INFO] []: [] Pipelon777: mejor asi
+[20:35:34] [Async Chat Thread - 7/INFO] []: [] GOD: como
+[20:35:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:36:01] [Async Chat Thread - 7/INFO] []: [] GOD: mentiras si mejor esquinas
+[20:36:06] [Async Chat Thread - 7/INFO] []: [] Pipelon777: ok
+[20:36:06] [Async Chat Thread - 7/INFO] []: [] GOD: voy haciendo eso
+[20:36:38] [Async Chat Thread - 7/INFO] []: [] Pipelon777: ellos tendran ceguera verdad
+[20:36:40] [Async Chat Thread - 7/INFO] []: [] GOD: todos
+[20:36:48] [Async Chat Thread - 7/INFO] []: [] GOD: si
+[20:37:10] [Async Chat Thread - 7/INFO] []: [] GOD: y sin minimapa
+[20:37:17] [Async Chat Thread - 7/INFO] []: [] GOD: orita meto el mod d eminimapa
+[20:37:19] [Async Chat Thread - 7/INFO] []: [] GOD: que añade efectos
+[20:37:31] [Async Chat Thread - 7/INFO] []: [] GOD: de sin minimapa y eso
+[20:37:36] [Async Chat Thread - 7/INFO] []: [] Pipelon777: ok
+[20:37:51] [Async Chat Thread - 7/INFO] []: [] Pipelon777: ya coloco esto hago la ultima habitacion que falta y listo hago el video
+[20:37:53] [Async Chat Thread - 7/INFO] []: [] Pipelon777: XD
+[20:38:04] [Async Chat Thread - 7/INFO] []: [] GOD: ok
+[20:38:10] [Async Chat Thread - 7/INFO] []: [] GOD: ya estan de los 4 codigos?
+[20:38:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Title command successfully executed]
+[20:38:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GOD issued server command: /give GOD minecraft:command_block
+[20:38:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GOD: Given [Command Block] * 1 to GOD]
