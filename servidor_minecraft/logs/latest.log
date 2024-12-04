@@ -30518,3 +30518,428 @@ java.util.ConcurrentModificationException: null
 [04:29:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
 [04:29:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
 [04:31:10] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cockatoo is 0.001
+[04:32:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:33:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:34:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:34:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[04:34:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:35:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:36:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Grevy's Zebra is 0.001
+[04:37:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:38:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp 383 80 -873
+[04:38:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to 383.5, 80.0, -872.5]
+[04:38:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /clear
+[04:38:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Cleared the inventory of Pipelon777, removing 160 items]
+[04:39:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 lost connection: Disconnected
+[04:39:25] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Pipelon777
+[04:39:25] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Pipelon777
+[04:39:25] [Server thread/INFO] []: [-] Pipelon777
+[04:39:25] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4fd74b4c-1953-31ba-aeec-8e2995781d08 does not have a secret
+[04:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mohist
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mohist
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Mohist took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod creativecoredummy
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod creativecoredummy
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - CreativeCoreDummy took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod ivtoolkit
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod ivtoolkit
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - IvToolkit took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod securitycraft
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod securitycraft
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - SecurityCraft took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod aiimprovements
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod aiimprovements
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - AI Improvements took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod badmobs
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod badmobs
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Bad Mobs took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod baubles
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod baubles
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Baubles took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod biomesoplenty
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod biomesoplenty
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Biomes O' Plenty took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod bookworm
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod bookworm
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Bookworm Library took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod cfm
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod cfm
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - MrCrayfish's Furniture Mod Legacy took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod chococraft
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod chococraft
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Chococraft 3 took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod clumps
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod clumps
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Clumps took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod codechickenlib
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod codechickenlib
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - CodeChicken Lib took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod collective
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod collective
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Collective took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod connectedglass
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod connectedglass
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Connected Glass took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod extendedrenderer
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod extendedrenderer
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Extended Renderer took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod coroutil
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod coroutil
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - CoroUtil Library took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod configmod
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod configmod
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Extended Mod Config took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod creativecore
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod creativecore
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - CreativeCore took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod customnpcitems
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod customnpcitems
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - CustomNPC Items took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod customnpcs
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod customnpcs
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - CustomNPCs took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod fairylights
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod fairylights
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Fairy Lights took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod fastbench
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod fastbench
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - FastWorkbench took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod getittogetherdrops
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod getittogetherdrops
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Get It Together, Drops! took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod jei
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod jei
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Had Enough Items took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod howlingmoon
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod howlingmoon
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Howling Moon took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod llibrary
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod llibrary
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - LLibrary took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod iceandfire
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod iceandfire
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Ice and Fire took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod infernalmobs
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod infernalmobs
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Infernal Mobs took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod konkrete
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod konkrete
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Konkrete took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod libraryex
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod libraryex
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - LibraryEx took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod malisiscore
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod malisiscore
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - MalisisCore took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod malisisdoors
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod malisisdoors
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - MalisisDoors took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mca
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mca
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Comes Alive took 0.007s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mowziesmobs
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mowziesmobs
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Mowzie's Mobs took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mutantbeasts
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mutantbeasts
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Mutant Beasts took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod netherex
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod netherex
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - NetherEx took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod netherportalfix
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod netherportalfix
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - NetherPortalFix took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod playerrevive
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod playerrevive
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Player Revive took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod radixcore
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod radixcore
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - RadixCore took 0.002s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod reccomplex
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod reccomplex
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Recurrent Complex took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod rustic
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod rustic
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Rustic took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod silentlib
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod silentlib
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Silent Lib took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod scalinghealth
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod scalinghealth
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Scaling Health took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod spartanshields
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod spartanshields
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Spartan Shields took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod srparasites
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod srparasites
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Scape and Run Parasites took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod stonemask
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod stonemask
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - StoneMask took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod tombstone
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod tombstone
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Corail Tombstone took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod toughasnails
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod toughasnails
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Tough As Nails took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod trashslot
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod trashslot
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - TrashSlot took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod travelersbackpack
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod travelersbackpack
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Traveler's Backpack took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod treechop
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod treechop
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - HT's TreeChop took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod vampirism
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod vampirism
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Vampirism took 0.001s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod teamlapen-lib
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod teamlapen-lib
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - TeamLapen Library took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod vampirism_integrations
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod vampirism_integrations
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - VampirismIntegrations took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod voicechat
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod voicechat
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Simple Voice Chat took 0.002s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod waystones
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod waystones
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Waystones took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod wolfarmor
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod wolfarmor
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Wolf Armor and Storage took 0.000s
+[04:39:28] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod zawa
+[04:39:28] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod zawa
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Zoo and Wild Animals Mod: Rebuilt took 0.000s
+[04:39:28] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0.018s
+[04:39:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:39:28] [Server thread/INFO] [Mohist]: Disabling PowerRanks v1.9.6
+[04:39:28] [Server thread/INFO] [Mohist]: [PowerRanks] Disabled PowerRanks v1.9.6
+[04:39:28] [Server thread/INFO] [Mohist]: Disabling ConditionalEvents v4.58.1
+[04:39:28] [Server thread/INFO] []: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[04:39:28] [Server thread/INFO] [Mohist]: Disabling JoinMessagePlus v3.3
+[04:39:28] [Server thread/INFO] [Mohist]: Disabling PlaceholderAPI v2.11.6
+[04:39:28] [Server thread/INFO] [Mohist]: Disabling LaggRemover v2.0.6
+[04:39:28] [Server thread/INFO] [Mohist]: [LaggRemover] LaggRemover has been disabled!
+[04:39:28] [Server thread/INFO] [Mohist]: Disabling LoginSecurity v3.2.0
+[04:39:28] [Server thread/INFO] [Mohist]: [LoginSecurity] Waiting for queued tasks...
+[04:39:28] [Server thread/INFO] [Mohist]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[04:39:28] [Server thread/INFO] [Mohist]: Disabling SleepPercentage v1.2.1
+[04:39:28] [Server thread/INFO] [Mohist]: Disabling LightChatBubbles v3
+[04:39:28] [Server thread/INFO] [Mohist]: Disabling ClearLag v3.2.2
+[04:39:28] [Server thread/INFO] [Mohist]: [ClearLag] Clearlag is now disabled!
+[04:39:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:39:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:39:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level world/overworld
+[04:39:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:39:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level DIM1/the_end
+[04:39:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level DIM-1/the_nether
+[04:39:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level DIM24/howlingmoon
+[04:39:29] [Server thread/INFO] [FML]: Unloading dimension 0
+[04:39:29] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:39:29] [Server thread/INFO] [FML]: Unloading dimension 1
+[04:39:29] [Server thread/INFO] [FML]: Unloading dimension 24
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mohist
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mohist
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Mohist took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod creativecoredummy
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod creativecoredummy
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CreativeCoreDummy took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod ivtoolkit
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod ivtoolkit
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - IvToolkit took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod securitycraft
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod securitycraft
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - SecurityCraft took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod aiimprovements
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod aiimprovements
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - AI Improvements took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod badmobs
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod badmobs
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Bad Mobs took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod baubles
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod baubles
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Baubles took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod biomesoplenty
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod biomesoplenty
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Biomes O' Plenty took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod bookworm
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod bookworm
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Bookworm Library took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cfm
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cfm
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MrCrayfish's Furniture Mod Legacy took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod chococraft
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod chococraft
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Chococraft 3 took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod clumps
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod clumps
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Clumps took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod codechickenlib
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod codechickenlib
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CodeChicken Lib took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod collective
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod collective
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Collective took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod connectedglass
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod connectedglass
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Connected Glass took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod extendedrenderer
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod extendedrenderer
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Extended Renderer took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod coroutil
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod coroutil
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CoroUtil Library took 0.008s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod configmod
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod configmod
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Extended Mod Config took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod creativecore
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod creativecore
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CreativeCore took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod customnpcitems
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod customnpcitems
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CustomNPC Items took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod customnpcs
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod customnpcs
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CustomNPCs took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod fairylights
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod fairylights
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Fairy Lights took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod fastbench
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod fastbench
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - FastWorkbench took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod getittogetherdrops
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod getittogetherdrops
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Get It Together, Drops! took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Had Enough Items took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod howlingmoon
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod howlingmoon
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Howling Moon took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod llibrary
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod llibrary
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - LLibrary took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod iceandfire
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod iceandfire
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Ice and Fire took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod infernalmobs
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod infernalmobs
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Infernal Mobs took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod konkrete
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod konkrete
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Konkrete took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod libraryex
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod libraryex
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - LibraryEx took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod malisiscore
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod malisiscore
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MalisisCore took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod malisisdoors
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod malisisdoors
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MalisisDoors took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mca
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mca
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Comes Alive took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mowziesmobs
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mowziesmobs
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Mowzie's Mobs took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mutantbeasts
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mutantbeasts
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Mutant Beasts took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod netherex
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod netherex
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - NetherEx took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod netherportalfix
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod netherportalfix
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - NetherPortalFix took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod playerrevive
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod playerrevive
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Player Revive took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod radixcore
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod radixcore
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - RadixCore took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod reccomplex
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod reccomplex
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Recurrent Complex took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod rustic
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod rustic
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Rustic took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod silentlib
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod silentlib
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Silent Lib took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod scalinghealth
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod scalinghealth
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Scaling Health took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod spartanshields
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod spartanshields
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Spartan Shields took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod srparasites
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod srparasites
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Scape and Run Parasites took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod stonemask
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod stonemask
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - StoneMask took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod tombstone
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod tombstone
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Corail Tombstone took 0.005s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod toughasnails
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod toughasnails
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Tough As Nails took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod trashslot
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod trashslot
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - TrashSlot took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod travelersbackpack
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod travelersbackpack
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Traveler's Backpack took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod treechop
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod treechop
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - HT's TreeChop took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod vampirism
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod vampirism
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Vampirism took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod teamlapen-lib
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod teamlapen-lib
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - TeamLapen Library took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod vampirism_integrations
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod vampirism_integrations
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - VampirismIntegrations took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod voicechat
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod voicechat
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Simple Voice Chat took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod waystones
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod waystones
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Waystones took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod wolfarmor
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod wolfarmor
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Wolf Armor and Storage took 0.000s
+[04:39:29] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod zawa
+[04:39:29] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod zawa
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Zoo and Wild Animals Mod: Rebuilt took 0.000s
+[04:39:29] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.019s
