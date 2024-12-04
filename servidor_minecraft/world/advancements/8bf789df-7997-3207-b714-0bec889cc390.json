@@ -1,4 +1,10 @@
 {
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-04 17:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2024-12-04 16:22:42 +0000"
@@ -29,9 +35,21 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 17:07:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-04 16:30:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 17:09:14 +0000"
     },
     "done": true
   },
@@ -71,6 +89,12 @@
       "highland": "2024-12-04 16:11:39 +0000"
     },
     "done": false
+  },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 17:07:42 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
