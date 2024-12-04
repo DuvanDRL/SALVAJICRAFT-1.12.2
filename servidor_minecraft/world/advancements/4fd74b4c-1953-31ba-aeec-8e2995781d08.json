@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-12-04 16:22:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-02 17:36:25 +0000"
@@ -428,6 +434,8 @@
       "boreal_forest": "2024-12-02 17:37:03 +0000",
       "snowy_forest": "2024-12-02 17:37:39 +0000",
       "snowy_coniferous_forest": "2024-12-02 17:38:30 +0000",
+      "tundra": "2024-12-04 16:15:40 +0000",
+      "grove": "2024-12-04 16:16:01 +0000",
       "gravel_beach": "2024-12-04 16:12:36 +0000",
       "brushland": "2024-12-02 17:41:21 +0000"
     },
@@ -442,6 +450,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "frozen_river": "2024-12-02 17:37:37 +0000",
+      "ice_flats": "2024-12-04 16:15:38 +0000",
       "forest": "2024-12-02 17:40:26 +0000",
       "deep_ocean": "2024-12-04 16:07:44 +0000",
       "beaches": "2024-12-02 17:42:06 +0000",
@@ -482,6 +491,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 04:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2024-12-04 16:17:12 +0000"
     },
     "done": true
   },
@@ -663,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-04 16:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-04 04:30:28 +0000"
@@ -687,9 +708,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-12-04 16:17:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-04 04:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2024-12-04 16:17:12 +0000"
     },
     "done": true
   },
