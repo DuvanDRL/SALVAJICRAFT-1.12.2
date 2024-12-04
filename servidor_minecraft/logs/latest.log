@@ -29982,3 +29982,9 @@
 [01:52:35] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:brownrat
 [01:53:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
 [01:53:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:54:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:54:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:55:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[01:58:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[01:59:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD has made the advancement [The Parrots and the Bats]
