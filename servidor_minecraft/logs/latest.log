@@ -29952,3 +29952,15 @@
 [01:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Given [Potion of Cold Resistance] * 1 to DuvanD]
 [01:21:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
 [01:22:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[01:24:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:24:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Bald Eagle is 0.001
+[01:25:06] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.05 and blood value 0 for entity zawa:meerkat
+[01:26:16] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.03 and blood value 0 for entity iceandfire:firedragon
+[01:26:24] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity zawa:coatimundi
+[01:29:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD has made the advancement [Take Aim]
+[01:29:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[01:29:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:29:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:30:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:31:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
