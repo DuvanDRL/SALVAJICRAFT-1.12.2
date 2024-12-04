@@ -559,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_sheep": "2024-12-04 02:03:45 +0000"
+    },
+    "done": false
+  },
   "stonemask:stone_mask_find": {
     "criteria": {
       "stone_mask_find": "2024-12-01 02:44:19 +0000"
@@ -1814,6 +1820,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2024-12-03 22:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_sheep": "2024-12-04 02:03:45 +0000"
     },
     "done": true
   },
