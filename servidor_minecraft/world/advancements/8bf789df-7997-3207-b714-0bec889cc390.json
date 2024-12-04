@@ -1,0 +1,46 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2024-12-04 16:05:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-04 16:05:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "steppe": "2024-12-04 16:14:07 +0000",
+      "highland": "2024-12-04 16:11:39 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-04 16:05:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2024-12-04 16:05:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2024-12-04 16:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2024-12-04 16:05:05 +0000",
+      "ocean": "2024-12-04 16:11:45 +0000"
+    },
+    "done": false
+  }
+}
